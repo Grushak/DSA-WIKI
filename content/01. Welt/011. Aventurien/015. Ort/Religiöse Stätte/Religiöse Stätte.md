@@ -1,0 +1,2 @@
+[[Schrein]]
+[[Tempel]]

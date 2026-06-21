@@ -1,0 +1,9 @@
+![[Schwan_von_Albenhus.jpg]]
+
+Die Schwan von Albenhus ist ein schnelles Schiff, mit dem Kapitänin Frinja Efferdsdank im Auftrag des Albenhuser Bundes Jagd auf die Piraten des Großen Flusses macht.
+
+Als Reaktion auf die Umtriebe von [Flusspiraten](https://www.koschwiki.de/index.php?title=Flusspiraten "Flusspiraten") auf dem [Großen Fluss](https://www.koschwiki.de/index.php?title=Der_Gro%C3%9Fe_Fluss "Der Große Fluss") stellte der [Albenhuser Bund](https://www.koschwiki.de/index.php?title=Albenhuser_Bund "Albenhuser Bund") im Jahr [1026](https://www.koschwiki.de/index.php?title=1026 "1026") BF den Schwan von Albenhus in Dienst. Der Vordersteven führt einen Schwan als Holzfigur. Die beiden Segel sind nach havener Art getakelt, dadurch ist das Schiff schnell und wendig. Des weiteren ist auf jeder Seite Platz für 5-15 Ruderer, so dass das Schiff auch bei Flaute gut vorran kommt. [1037](https://www.koschwiki.de/index.php?title=1037 "1037")/[1038](https://www.koschwiki.de/index.php?title=1038 "1038") BF wurde das Schiff überholt und die ohnehin schon schwere Bewaffnung wurde noch erweitert. So verfügt das Schiff nun über einen [Aal](http://de.wiki-aventurica.de/wiki/Aal_\(Waffe\) "wikav:Aal (Waffe)"), vier [Hornissen](http://de.wiki-aventurica.de/wiki/Hornisse_\(Waffe\) "wikav:Hornisse (Waffe)"), zwei mittelschweren [Rotzen](http://de.wiki-aventurica.de/wiki/Rotze "wikav:Rotze") und einer Besatzung von sechzig Seeleuten, darunter auch viele Söldlinge.
+
+Das Schiff dient sowohl als Piratenjäger, als auch als Begleitschiff für Schiffe des Albenhuser Bundes. Da Schiff hat seinen Heimathafen in [Albenhus](https://www.koschwiki.de/index.php?title=Albenhus "Albenhus"), kann aber überall auf dem Großen Fluss angetroffen werden.
+
+Kapitänin ist [Frinja Efferdsdank](https://wiki.nordmarken.de/index.php?title=Frinja_Efferdsdank "nor:Frinja Efferdsdank").

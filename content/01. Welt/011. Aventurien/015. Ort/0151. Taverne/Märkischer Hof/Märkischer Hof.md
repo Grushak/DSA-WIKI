@@ -1,0 +1,3 @@
+Das Hotel **Märkischer Hof** ist neben dem [Tobrischen Hof](https://de.wiki-aventurica.de/wiki/Hotel_Tobrischer_Hof "Hotel Tobrischer Hof") die größte Einrichtung dieser Art in [Vallusa](https://de.wiki-aventurica.de/wiki/Vallusa "Vallusa").
+
+Die Ähnlichkeit zum [Tobrischen Hof](https://de.wiki-aventurica.de/wiki/Hotel_Tobrischer_Hof "Hotel Tobrischer Hof") liegt darin begründet, dass beide Einrichtungen aufs Blut verfeindeten norbardischen Brüdern gehören, die sich gegenseitig in den Preisen unterbieten wollen - zunehmend auch auf Kosten der Qualität.

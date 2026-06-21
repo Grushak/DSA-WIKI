@@ -1,0 +1,2 @@
+ Das Stoerrebrandt-Kolleg zu Riva wurde von Stover Regolan Stoerrebrandt gestiftet und dient der Ausbildung von Lohnmagiern für seine Expeditionen und dem Schutz seines Handelhauses. 
+ In Wagenhalt gibt es seit 20. Phex 1039 BF eine Zweigniederlassung.

@@ -1,0 +1,1 @@
+Die Silbernen Falken sind der Kurierdienst des Handelshauses Stoerrebrandt. Er ist aventurienweit (außer Alanfanisches Imperium und Verbündete) niedergelassen und befördert auch kleinere Mengen an Waren zu teilweise moderaten Preisen.
