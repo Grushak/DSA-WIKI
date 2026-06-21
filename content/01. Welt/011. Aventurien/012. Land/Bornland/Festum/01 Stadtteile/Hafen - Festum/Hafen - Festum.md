@@ -3,7 +3,7 @@
 
 # ⚓ Ort: Der Festumer Hafen (Das Tor zum Perlenmeer)
 
-> _"Die Speicherinsel bewacht das Gold, die Altstadt schreibt die Gesetze, aber der Hafen pumpt das Blut durch Festum. Wer hier den Rhythmus von Flut, Zoll und Schmiergeld nicht versteht, wird schnell zwischen den Planken zerrieben."_
+> "Die Speicherinsel bewacht das Gold, die Altstadt schreibt die Gesetze, aber der Hafen pumpt das Blut durch Festum. Wer hier den Rhythmus von Flut, Zoll und Schmiergeld nicht versteht, wird schnell zwischen den Planken zerrieben."
 
 **Tags:** `#Ort` `#Festum` `#Hafen` `#ObererHafen` `#Schmuggel` `#Seefahrt` `#Logistik` `#Thorwaler`
 
