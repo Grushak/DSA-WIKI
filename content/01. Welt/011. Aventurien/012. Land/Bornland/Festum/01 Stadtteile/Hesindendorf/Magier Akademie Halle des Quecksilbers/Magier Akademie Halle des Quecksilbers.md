@@ -1,2 +1,0 @@
-
-[[Halle des Quecksilbers]]

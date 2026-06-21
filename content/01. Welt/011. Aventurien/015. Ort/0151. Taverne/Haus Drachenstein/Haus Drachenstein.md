@@ -1,3 +1,0 @@
-Das **Haus Drachenstein** gilt als bestes Hotel [Vallusas](https://de.wiki-aventurica.de/wiki/Vallusa "Vallusa"). Während der [Borbaradkrise](https://de.wiki-aventurica.de/wiki/Borbaradkrise "Borbaradkrise") waren im Haus [tobrische](https://de.wiki-aventurica.de/wiki/Tobrien "Tobrien") Flüchtlinge untergebracht. Der [Sacer Ordo Draconis](https://de.wiki-aventurica.de/wiki/Sacer_Ordo_Draconis "Sacer Ordo Draconis") nutzt einen Teil des Hotels als [Ordensniederlassung](https://de.wiki-aventurica.de/wiki/Orden "Orden") unter der Führung der [Präzeptorin](https://de.wiki-aventurica.de/wiki/Pr%C3%A4zeptor "Präzeptor") [Delia della Tiranak](https://de.wiki-aventurica.de/wiki/Delia_della_Tiranak "Delia della Tiranak").
-
-## Publikationen

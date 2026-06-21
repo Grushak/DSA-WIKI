@@ -1,3 +1,0 @@
-Das Amt des Zuchtmeister ist eines von sieben Adelskomturen des Bornlandes. Mitsamt des Amtes des Rüstmeisters wurde es erst von Thesia von Ilmenstein eingeführt und ist damit jünger als die meisten anderen der Adelskomturen. Dem Amtsinhaber obliegt es, über gute Sitten und Frömmigkeit im Adel zu wachen und borbaradianische Umtriebe zu vereiteln.
-
-Über die guten Sitten und die Frömmigkeit im Adel wacht Zuchtmeisterin [[Argele von Eschenfurt]].

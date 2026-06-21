@@ -1,1 +1,0 @@
-Praios-Tempel in [[Ferdok]]

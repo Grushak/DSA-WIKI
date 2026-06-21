@@ -1,3 +1,0 @@
-Der Adelsmarschall ist das Oberhaupt der bornländischen Adelsversammlung und wird dort seit der Unabhängigkeit des Bornlands 755 BF alle fünf Jahre am bornischen Nationalfeiertag gewählt. Er hat seinen Regierungssitz in Festum. Ihm zur Seite stehen 6 Adelskomture.
-
-Der Adelsmarschall hat als „Erster unter Gleichen“, bis auf seine Funktion als oberster Kriegsherr, fast nur repräsentative Aufgaben und Privilegien. Seit 200 Jahren bringt jeder Adelsmarschall im ersten Jahr seiner Regentschaft an einer großen Schwarzeiche in Baldrom seine Namenstafel an.

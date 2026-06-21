@@ -1,2 +1,0 @@
-[[Aves]] 
-[[Aves-Kirche]]
