@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Cinzel
+      body: EB Garamond
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#f4e4bc"
+        lightgray: "#e2d1a6"
+        gray: "#b8a67d"
+        darkgray: "#5c4033"
+        dark: "#2b1d0e"
+        secondary: "#8b0000"
+        tertiary: "#d4af37"
+        highlight: rgba(139, 0, 0, 0.05)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#1a1712"
+        lightgray: "#3d352b"
+        gray: "#6e604f"
+        darkgray: "#dcd3c1"
+        dark: "#f4e4bc"
+        secondary: "#d4af37"
+        tertiary: "#a52a2a"
+        highlight: rgba(212, 175, 55, 0.1)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
