@@ -2,7 +2,6 @@
 
 **Tags:** `#Übersicht` `#Festum` `#Bauwerke` `#Stadtplanung`
 
-> 💡 _System-Tipp:_ Klicke auf die `[[Links]]`, um direkt eine neue Notiz für das jeweilige Gebäude in deinem Vault zu erstellen. Nutze die Checkboxen, um deinen Worldbuilding-Fortschritt zu tracken.
 
 ## 🏛️ Die [[Altstadt]] (Macht & Patrizier)
 

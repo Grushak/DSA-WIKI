@@ -1,6 +1,6 @@
 # ⛰️ Ort: Die Jodekspitze & Boronstadt (Die schweigende Wacht)
 
-> _"Ganz Festum ist laut, gierig und in ständiger Bewegung. Nur hier oben, wo der Wind vom Perlenmeer über die Gräber pfeift und der Leuchtturm stumm in die Nacht blinkt, hat das Gold der Pfeffersäcke keine Macht mehr. Hier herrscht Boron."_
+Ganz Festum ist laut, gierig und in ständiger Bewegung. Nur hier oben, wo der Wind vom Perlenmeer über die Gräber pfeift und der Leuchtturm stumm in die Nacht blinkt, hat das Gold der Pfeffersäcke keine Macht mehr. Hier herrscht Boron.
 
 **Tags:** `#Ort` `#Festum` `#Jodekspitze` `#Boron` `#PuninerRitus` `#Leuchtturm` `#Übersicht` `#Taktik`
 

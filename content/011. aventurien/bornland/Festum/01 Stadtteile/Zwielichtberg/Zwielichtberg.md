@@ -1,6 +1,6 @@
 # ⛰️ Ort: Der Zwielichtberg (Der blinde Fleck Festums)
 
-> _"Die Pfeffersäcke bauen auf jeden Quadratmeter Schlamm, den sie dem Born abringen können, ein Lagerhaus. Aber dieser Hügel? Da wächst nur Unkraut und Nebel. Bauen wir drum herum, sagen sie. Ein Spukort, sagen sie. Ich sage: Ein Ort, an dem die Garde nie patrouilliert."_
+Die Pfeffersäcke bauen auf jeden Quadratmeter Schlamm, den sie dem Born abringen können, ein Lagerhaus. Aber dieser Hügel? Da wächst nur Unkraut und Nebel. Bauen wir drum herum, sagen sie. Ein Spukort, sagen sie. Ich sage: Ein Ort, an dem die Garde nie patrouilliert.
 
 **Tags:** `#Ort` `#Festum` `#Zwielichtberg` `#Alhani` `#Ruinen` `#Versteck` `#Okkultes` `#SchwarzerLotos`
 

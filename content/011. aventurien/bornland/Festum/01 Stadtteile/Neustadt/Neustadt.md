@@ -1,6 +1,6 @@
 # 🏘️ Ort: Die Neustadt (Das Herz des Handwerks)
 
-> _"Die Altstadt macht die Gesetze, die Speicherinsel hortet das Gold, aber in der Neustadt wird Festum am Laufen gehalten. Hier schlagen die Hämmer, hier drehen sich die Mühlsteine, und hier haben die Gildenmeister das Sagen."_
+Die Altstadt macht die Gesetze, die Speicherinsel hortet das Gold, aber in der Neustadt wird Festum am Laufen gehalten. Hier schlagen die Hämmer, hier drehen sich die Mühlsteine, und hier haben die Gildenmeister das Sagen.
 
 **Tags:** `#Ort` `#Festum` `#Neustadt` `#Handwerk` `#Bürgertum` `#Gilden` `#Infrastruktur` `#Draconiter` `#Tsa`
 

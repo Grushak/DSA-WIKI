@@ -1,6 +1,6 @@
 # 📚 Ort: Das Hesindendorf (Das Gehirn von Festum)
 
-> _"Lass dich von dem Wort 'Dorf' nicht täuschen. Nirgendwo in Festum sind die Gassen gepflasterter, die Mieten höher und die Nasen weiter oben. Hier kann dich ein falsches Wort zwar nicht das Leben kosten, aber durchaus deinen Ruf – und der ist hier mehr wert als Gold."_
+Lass dich von dem Wort 'Dorf' nicht täuschen. Nirgendwo in Festum sind die Gassen gepflasterter, die Mieten höher und die Nasen weiter oben. Hier kann dich ein falsches Wort zwar nicht das Leben kosten, aber durchaus deinen Ruf – und der ist hier mehr wert als Gold.
 
 **Tags:** `#Ort` `#Festum` `#Hesindendorf` `#Akademie` `#Magie` `#Wissen` `#Kultur` `#Wassili` `#Therbûniten`
 

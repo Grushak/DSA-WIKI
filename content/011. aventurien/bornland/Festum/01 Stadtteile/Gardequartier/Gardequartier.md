@@ -1,6 +1,6 @@
 # ⚔️ Ort: Das Gardehauptquartier (Das Zentrum der Exekutive)
 
-> _"Das Gesetz in Festum steht nicht in den Büchern des Praios-Tempels. Es steht in den Dienstplänen der Garde und wird in den Verhörzellen mit dem Knüppel buchstabiert. Wer hier landet, braucht kein Alibi, sondern einen schweren Geldbeutel."_
+Das Gesetz in Festum steht nicht in den Büchern des Praios-Tempels. Es steht in den Dienstplänen der Garde und wird in den Verhörzellen mit dem Knüppel buchstabiert. Wer hier landet, braucht kein Alibi, sondern einen schweren Geldbeutel.
 
 **Tags:** `#Ort` `#Festum` `#Altstadt` `#Stadtgarde` `#Timpski` `#Exekutive` `#Hochsicherheit` `#Theaterritter`
 

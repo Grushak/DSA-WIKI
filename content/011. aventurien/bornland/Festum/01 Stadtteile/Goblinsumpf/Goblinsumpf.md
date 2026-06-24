@@ -1,6 +1,6 @@
 # 🐸 Ort: Der Goblinsumpf (Suulak)
 
-> _"Die Altstadt wirft ihren Müll und ihre Fehler über die Mauer. Der Sumpf fängt alles auf, verwertet es und verkauft es der Stadt am nächsten Tag als Lösung zurück. Es ist ein perfekt geschlossenes, extrem stinkendes Wirtschaftssystem."_
+Die Altstadt wirft ihren Müll und ihre Fehler über die Mauer. Der Sumpf fängt alles auf, verwertet es und verkauft es der Stadt am nächsten Tag als Lösung zurück. Es ist ein perfekt geschlossenes, extrem stinkendes Wirtschaftssystem.
 
 **Tags:** `#Ort` `#Festum` `#Goblinsumpf` `#Suulak` `#SchwarzerMarkt` `#MantkaRiiba` `#Ressourcen`
 

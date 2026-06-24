@@ -1,6 +1,6 @@
 # 🛶 Ort: Der Obere Hafen (Das Nadelöhr des Binnenlandes)
 
-> _"Unten am Meer riecht das Geld nach Salz und Gewürzen. Hier oben riecht es nach Schlamm, Kiefernholz und dem Schweiß der Flussschiffer. Das Meer bringt den Luxus, aber der Born bringt das, woraus Festum eigentlich gebaut ist."_
+Unten am Meer riecht das Geld nach Salz und Gewürzen. Hier oben riecht es nach Schlamm, Kiefernholz und dem Schweiß der Flussschiffer. Das Meer bringt den Luxus, aber der Born bringt das, woraus Festum eigentlich gebaut ist.
 
 **Tags:** `#Ort` `#Festum` `#ObererHafen` `#Binnenschifffahrt` `#Flößer` `#Rohstoffe` `#Schmuggel`
 

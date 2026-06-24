@@ -1,6 +1,6 @@
 # 🌾 Ort: Prähnsgardt (Die sakrale Kornkammer)
 
-> _"Die Altstadt mag glauben, sie sei fromm, weil sie in Marmor betet. Aber hier draußen, wo der Yaquirweizen wächst, der Winterwind zuerst zuschlägt und die Wüstenreiter im Exil beten – hier zeigt sich, an wen sich das System wirklich wendet, wenn es ums Überleben geht."_
+Die Altstadt mag glauben, sie sei fromm, weil sie in Marmor betet. Aber hier draußen, wo der Yaquirweizen wächst, der Winterwind zuerst zuschlägt und die Wüstenreiter im Exil beten – hier zeigt sich, an wen sich das System wirklich wendet, wenn es ums Überleben geht.
 
 **Tags:** `#Ort` `#Festum` `#Prähnsgardt` `#Peraine` `#Ifirn` `#Rastullah` `#Landwirtschaft` `#Ressourcen`
 

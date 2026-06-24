@@ -2,9 +2,9 @@
 ---
 
 # ⚓ Ort: Der Festumer Hafen (Das Tor zum Perlenmeer)
-" 
-> _"Die Speicherinsel bewacht das Gold, die Altstadt schreibt die Gesetze, aber der Hafen pumpt das Blut durch Festum. Wer hier den Rhythmus von Flut, Zoll und Schmiergeld nicht versteht, wird schnell zwischen den Planken zerrieben."_
-"
+
+Die Speicherinsel bewacht das Gold, die Altstadt schreibt die Gesetze, aber der Hafen pumpt das Blut durch Festum. Wer hier den Rhythmus von Flut, Zoll und Schmiergeld nicht versteht, wird schnell zwischen den Planken zerrieben.
+
 **Tags:** `#Ort` `#Festum` `#Hafen` `#ObererHafen` `#Schmuggel` `#Seefahrt` `#Logistik` `#Thorwaler`
 
 ## 📍 Aussehen & Atmosphäre
@@ -88,3 +88,5 @@ Die Beute teilt sich logisch in nautisches Material, Unterwelt-Ressourcen und ka
 - **Konsumgüter & Währung:** Premer Feuer (hochprozentig, dient als Wunddesinfektion oder Sabotagemittel), Stangen von verbotenem Ilmenblatt, ausländische Münzen (z.B. thorwalsche Hetmünzen) und Schnitzereien aus Walrosselfenbein.
     
 - **Taktischer Loot:** Offizielle Zollsiegel aus dem Hafenmeisteramt (extrem wertvoll für Fälschungen), Schmuggel-Karten aus dem Umfeld des Phex-Tempels und Frachtlisten, die geheime Buchten für den Menschenhandel des Schwarzen Lotos markieren.
+
+

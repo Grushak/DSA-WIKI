@@ -1,6 +1,6 @@
 # 🌊 Ort: Am Seeufer (Das Refugium der Oligarchen)
 
-> _"Die Altstadt macht Gesetze für die Bürger, die Speicherinsel hortet die Waren. Aber hier, hinter schmiedeeisernen Toren und perfekt manikürten Hecken, sitzen die wenigen Menschen, die den Preis für beides diktieren. Ein Viertel, das den Schlamm Festums durch puren Reichtum aus der Realität aussperrt."_
+Die Altstadt macht Gesetze für die Bürger, die Speicherinsel hortet die Waren. Aber hier, hinter schmiedeeisernen Toren und perfekt manikürten Hecken, sitzen die wenigen Menschen, die den Preis für beides diktieren. Ein Viertel, das den Schlamm Festums durch puren Reichtum aus der Realität aussperrt.
 
 **Tags:** `#Ort` `#Festum` `#AmSeeufer` `#Stoerrebrandt` `#Oligarchie` `#Hochsicherheit` `#Elite`
 

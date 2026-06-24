@@ -1,6 +1,6 @@
 # 🗺️ Ort: Die Speicherinsel (Der Tresor des Bornlands)
 
-> _"Die Götter mögen in Al'Anfa wohnen, aber in Festum regiert das Geld. Und sein Thron steht auf der Speicherinsel. Setz dort nachts auch nur einen Fuß hin, und du wirst schneller von Armbrustbolzen durchsiebt, als du 'Hesinde' rufen kannst."_
+Die Götter mögen in Al'Anfa wohnen, aber in Festum regiert das Geld. Und sein Thron steht auf der Speicherinsel. Setz dort nachts auch nur einen Fuß hin, und du wirst schneller von Armbrustbolzen durchsiebt, als du 'Hesinde' rufen kannst.
 
 **Tags:** `#Ort` `#Festum` `#Speicherinsel` `#Handel` `#Pfeffersäcke` `#Schleichmission` `#Loot` `#Hochsicherheit`
 

@@ -1,6 +1,6 @@
 # 🌳 Ort: Die Mauergärten (Die grüne Grenze)
 
-> _"Wer glaubt, ganz Festum bestehe nur aus Stein, Schlamm und Kontoren, der war noch nie an den Festungsmauern. Hier riecht es nach frischer Erde, Bienenwachs und dem Dung exotischer Tiere – und zweimal im Jahr nach dem feurigen Zobelschnaps der Norbarden."_
+Wer glaubt, ganz Festum bestehe nur aus Stein, Schlamm und Kontoren, der war noch nie an den Festungsmauern. Hier riecht es nach frischer Erde, Bienenwachs und dem Dung exotischer Tiere – und zweimal im Jahr nach dem feurigen Zobelschnaps der Norbarden.
 
 **Tags:** `#Ort` `#Festum` `#Mauergärten` `#Norbarden` `#Tiergarten` `#Natur` `#Schmuggel` `#Mokoscha` `#Rondra`
 

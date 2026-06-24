@@ -3,7 +3,7 @@
 
 # 🎭 Ort: Neu-Jergan (Das Maraskanerviertel)
 
-> _"Während der Rest von Festum im grauen Wintermantel friert und stumm seine Heller zählt, streiten sie hier in bunten Seidengewändern lautstark darüber, ob der Schnee ein Geschenk des Bruders Rur oder ein Fehler im Weltensystem ist. Ein lauter, bunter, verwirrender Ort."_
+Während der Rest von Festum im grauen Wintermantel friert und stumm seine Heller zählt, streiten sie hier in bunten Seidengewändern lautstark darüber, ob der Schnee ein Geschenk des Bruders Rur oder ein Fehler im Weltensystem ist. Ein lauter, bunter, verwirrender Ort.
 
 **Tags:** `#Ort` `#Festum` `#NeuJergan` `#Maraskaner` `#Exil` `#Kulturschock` `#Dualismus` `#Mulziber`
 
