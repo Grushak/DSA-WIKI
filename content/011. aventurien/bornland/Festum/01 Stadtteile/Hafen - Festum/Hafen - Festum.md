@@ -10,21 +10,28 @@ Die Speicherinsel bewacht das Gold, die Altstadt schreibt die Gesetze, aber der 
 ## 📍 Aussehen & Atmosphäre
 
 - **Geografie:** Ein weitläufiges Netzwerk aus steinernen Kais, hölzernen Stegen und Ladedocks an der Mündung des Flusses Born in den Golf von Festum, das landeinwärts in den _Oberen Hafen_ übergeht. Der Hafen umschließt die gut bewachte Speicherinsel logistisch.
+ **Geografie:** Ein weitläufiges Netzwerk aus steinernen Kais, hölzernen Stegen und Ladedocks an der Mündung des Flusses Born in den Golf von Festum, das landeinwärts in den _Oberen Hafen_ übergeht. Der Hafen umschließt die gut bewachte Speicherinsel logistisch.
     
 - **Architektur:** Zweckmäßig und massiv. Große, oft feuchte Lagerhallen aus Holz und Backstein, Kontore der kleineren Händler, verrauchte Spelunken und die massiven Werftanlagen, in denen das Hämmern nie aufhört.
+ **Architektur:** Zweckmäßig und massiv. Große, oft feuchte Lagerhallen aus Holz und Backstein, Kontore der kleineren Händler, verrauchte Spelunken und die massiven Werftanlagen, in denen das Hämmern nie aufhört.
     
 - **Klima & Geruch:** Ständiger Wind vom Perlenmeer. Die Luft ist eine dichte Mischung aus Salzwasser, Tang, fauligem Fisch, feuchtem Holz, Teer und exotischen Gewürzen, die beim Verladen herabfallen.
+ **Klima & Geruch:** Ständiger Wind vom Perlenmeer. Die Luft ist eine dichte Mischung aus Salzwasser, Tang, fauligem Fisch, feuchtem Holz, Teer und exotischen Gewürzen, die beim Verladen herabfallen.
     
 - **Die Straßen:** Rutschiges Kopfsteinpflaster, überzogen mit einer Schicht aus Fischschuppen und Matsch. Ständige Bewegung von Karren, Flaschenzügen und Trossen.
+ **Die Straßen:** Rutschiges Kopfsteinpflaster, überzogen mit einer Schicht aus Fischschuppen und Matsch. Ständige Bewegung von Karren, Flaschenzügen und Trossen.
     
 
 ## 👥 Wer lebt und arbeitet hier? (Die Gesellschaft)
 
 - **Demografie:** Ein ethnischer Schmelztiegel. Neben bornländischen Hafenarbeitern (Schauerleuten) finden sich hier tulamidische Händler, horasische Kapitäne, norbardische Flößer und Thorwaler.
+-**Demografie:** Ein ethnischer Schmelztiegel. Neben bornländischen Hafenarbeitern (Schauerleuten) finden sich hier tulamidische Händler, horasische Kapitäne, norbardische Flößer und Thorwaler.
     
 - **Berufe:** Seeleute, Lotsen, Zollbeamte, Prostituierte, Fischer, Segelmacher, Schmuggler, Söldner und Taschendiebe.
+ **Berufe:** Seeleute, Lotsen, Zollbeamte, Prostituierte, Fischer, Segelmacher, Schmuggler, Söldner und Taschendiebe.
     
 - **Mentalität:** Pragmatisch, rau und auf den eigenen Vorteil bedacht. Gold und schnelle Fäuste regieren hier eher als der Verstand. Das System ist hochgradig korrupt, aber nach eigenen Regeln effizient.
+ **Mentalität:** Pragmatisch, rau und auf den eigenen Vorteil bedacht. Gold und schnelle Fäuste regieren hier eher als der Verstand. Das System ist hochgradig korrupt, aber nach eigenen Regeln effizient.
     
 
 ## 📜 Systemische Regeln (Die Gesetze der Docks)
@@ -47,14 +54,19 @@ _Dieses Areal funktioniert als eigenständiges, isoliertes Rechtssystem innerhal
 > _"Wer im Sumpf verschwindet, ist tot. Wer im Thorwaler-Viertel das falsche Wort sagt, wacht am nächsten Morgen mit einem massiven Kater, zwei fehlenden Zähnen und drei neuen Blutsbrüdern im Rinnstein auf."_
 
 - **Geografie:** Grenzt direkt an die westlichen Hafenanlagen. Strategisch an das Wasser angebunden, um die Drachenschiffe (Ottas) schnell be- und entladen zu können.
+**Geografie:** Grenzt direkt an die westlichen Hafenanlagen. Strategisch an das Wasser angebunden, um die Drachenschiffe (Ottas) schnell be- und entladen zu können.
     
 - **Architektur:** Abrupter Stilbruch zum restlichen Festum. Massive, nordische Langhäuser aus schweren Holzstämmen. Giebel mit kunstvoll geschnitzten Drachen- oder Wal-Köpfen verziert. Dächer sind tief gezogen, Fenster klein gegen die Kälte.
+ **Architektur:** Abrupter Stilbruch zum restlichen Festum. Massive, nordische Langhäuser aus schweren Holzstämmen. Giebel mit kunstvoll geschnitzten Drachen- oder Wal-Köpfen verziert. Dächer sind tief gezogen, Fenster klein gegen die Kälte.
     
 - **Demografie & Berufe:** Fast ausschließlich Thorwaler und Mitglieder der Ottajaskos (Schiffsgemeinschaften). Seeleute, Walfänger, Söldner, Bootsbauer.
+ **Demografie & Berufe:** Fast ausschließlich Thorwaler und Mitglieder der Ottajaskos (Schiffsgemeinschaften). Seeleute, Walfänger, Söldner, Bootsbauer.
     
 - **Mentalität:** Direkt, emotional und extrem ehrbewusst. Sie verabscheuen Intrigen (wie die des Schwarzen Lotos). Sie feiern hart, arbeiten hart und kämpfen hart.
+ **Mentalität:** Direkt, emotional und extrem ehrbewusst. Sie verabscheuen Intrigen (wie die des Schwarzen Lotos). Sie feiern hart, arbeiten hart und kämpfen hart.
     
 - **Regeln (Recht des Stärkeren):** Timpskis Garde meidet das Viertel. Konflikte werden intern über Holmgänge (Zweikämpfe) oder Hetmann-Schiedssprüche geklärt. Wer sich an die Regeln hält, genießt unerschütterliches Gastrecht.
+ **Regeln (Recht des Stärkeren):** Timpskis Garde meidet das Viertel. Konflikte werden intern über Holmgänge (Zweikämpfe) oder Hetmann-Schiedssprüche geklärt. Wer sich an die Regeln hält, genießt unerschütterliches Gastrecht.
     
 
 ---
@@ -82,11 +94,15 @@ Das Hafenviertel bündelt die geballte Logistik und die verborgenen Netzwerke Fe
 Die Beute teilt sich logisch in nautisches Material, Unterwelt-Ressourcen und kampforientierte Ausrüstung auf:
 
 - **Organische Handwerksressourcen:** Massives Tauwerk (ideal für Klettereien beim Heist), starker Klebstoff (Fischleim), Fässer mit Holzteer und Pech (Brandbeschleuniger), Segeltuch.
+**Organische Handwerksressourcen:** Massives Tauwerk (ideal für Klettereien beim Heist), starker Klebstoff (Fischleim), Fässer mit Holzteer und Pech (Brandbeschleuniger), Segeltuch.
     
 - **Kampfausrüstung (Thorwaler & Kor):** Exzellent geschmiedete Wurfbeile (Skraja), Orknasen und verstärkte Lederpanzer aus dem Thorwaler-Viertel. Abgewetzte, aber extrem scharfe Söldnerwaffen rund um den Kor-Altar.
+**Kampfausrüstung (Thorwaler & Kor):** Exzellent geschmiedete Wurfbeile (Skraja), Orknasen und verstärkte Lederpanzer aus dem Thorwaler-Viertel. Abgewetzte, aber extrem scharfe Söldnerwaffen rund um den Kor-Altar.
     
 - **Konsumgüter & Währung:** Premer Feuer (hochprozentig, dient als Wunddesinfektion oder Sabotagemittel), Stangen von verbotenem Ilmenblatt, ausländische Münzen (z.B. thorwalsche Hetmünzen) und Schnitzereien aus Walrosselfenbein.
+ **Konsumgüter & Währung:** Premer Feuer (hochprozentig, dient als Wunddesinfektion oder Sabotagemittel), Stangen von verbotenem Ilmenblatt, ausländische Münzen (z.B. thorwalsche Hetmünzen) und Schnitzereien aus Walrosselfenbein.
     
 - **Taktischer Loot:** Offizielle Zollsiegel aus dem Hafenmeisteramt (extrem wertvoll für Fälschungen), Schmuggel-Karten aus dem Umfeld des Phex-Tempels und Frachtlisten, die geheime Buchten für den Menschenhandel des Schwarzen Lotos markieren.
+ **Taktischer Loot:** Offizielle Zollsiegel aus dem Hafenmeisteramt (extrem wertvoll für Fälschungen), Schmuggel-Karten aus dem Umfeld des Phex-Tempels und Frachtlisten, die geheime Buchten für den Menschenhandel des Schwarzen Lotos markieren.
 
 
