@@ -1,0 +1,2 @@
+ Eine integrativere Version des [[Atmaskot-Fest|Atmaskot-Festes]] im Goblinviertel [[Sulak]], unterstützt durch [[Okil Kawaschek]] und [[Mantkariba]].
+ [[Oleana Fuxfehl | Oleana]] hat sich bereit erklärt, sich als Protektorin des Festes vor dem [[Rat von Festum]] zu verantworten
