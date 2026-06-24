@@ -16,10 +16,10 @@
 - Expedition nach [[Alt Wurzeln]] und Entdeckung des versunkenen Hesinde-Tempels.
 - Verfolgung von [[Pjerow von Jelinske]], der sich mit magischen Rüben in die Luft sprengt.
 
-## Festum & das Atmaskot-Fest
+## Festum & das Friedensfest
 - Ankunft in [[Festum]]. Recherchen in der Magierakademie und beim [[Roter Salamander]].
 - Suche nach der verschwundenen Thorwahlerin Ilsi.
 - Untersuchung von dämonischem Gold und "brauner Schlacke" im Goblinviertel [[Sulak]].
-- Verhandlungen mit [[Mantkariba]] über die Durchführung des [[Atmaskot-Fest|Atmaskot-Festes]] in Sulak.
-- Erfolgreiche Durchführung des Festes mit Unterstützung von [[Okil Kawaschek]].
+- Verhandlungen mit [[Mantkariba]] über die Durchführung des [[Friedensfest der Kulturen|Friedensfestes]] in Sulak.
+- Erfolgreiche Durchführung der Veranstaltung mit Unterstützung von [[Okil Kawaschek]] als friedliches Gegengewicht zum offiziellen [[Atmaskot-Fest]].
 - Entdeckung der Umtriebe des Alchemisten Magister Xandros (Diebstahl eines Drachenzahns).
