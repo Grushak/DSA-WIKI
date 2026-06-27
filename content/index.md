@@ -2,7 +2,7 @@
 title: Das DSA-Wiki
 ---
 
-Willkommen im Nachschlagewerk für unsere Abenteuer, rund um den Theaterordern, im Bornland!
+Willkommen im Nachschlagewerk für unsere Abenteuer, rund um den Theaterritterordern, im Bornland!
 
 ![[Bornland-Begrussung.jpg]]
 
