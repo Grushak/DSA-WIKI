@@ -34,7 +34,7 @@ Das Phänomen zeichnet sich durch drei Hauptaspekte aus:
 
 
 ## 📊 I. Physische Manifestationen (System-Anomalien)
-Das Erwachen durchbricht die etablierten Naturgesetze und richtet sich aktiv gegen die menschliche Zivilisation, um sich selbst zu heilen und zu verteidigen.
+%%Das Erwachen durchbricht die etablierten Naturgesetze und richtet sich aktiv gegen die menschliche Zivilisation, um sich selbst zu heilen und zu verteidigen.%%
 
 - **Flora (Hyper-Wachstum):** Pflanzen ignorieren Jahreszeiten. Tote Holzbalken in Häusern oder Wagenrädern schlagen plötzlich Wurzeln und treiben aus. Wuchernde Dornenhecken entstehen über Nacht und blockieren Straßen.
 %%- **Fauna (Gigantismus & Aggression):** Tiere werden unberechenbar und jähzornig. Hasen rotten sich zu aggressiven Schwärmen zusammen. Spezifische "Erwachte Tiere" (z.B. [[bornbaeren]], [[streifendachse]]) wachsen auf das Doppelte ihrer Größe an, ihre Haut wird borkig, Äste wachsen wie Hörner aus ihren Körpern.
