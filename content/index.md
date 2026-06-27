@@ -4,7 +4,7 @@ title: Das DSA-Wiki
 
 Willkommen im Nachschlagewerk für unsere Abenteuer, rund um den Theaterordern, im Bornland!
 
-![[Bornland-Begrussung.png]]
+![[Bornland-Begrussung.jpg]]
 
 
 
