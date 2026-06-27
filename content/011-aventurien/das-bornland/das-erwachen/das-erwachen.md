@@ -31,9 +31,7 @@ Das Land wehrt sich: Wälder und Flüsse wuchern und erobern sich menschliches K
 Das Phänomen zeichnet sich durch drei Hauptaspekte aus:
 - **Urtümlichkeit:** Naturkräfte, Pflanzen und magische Kreaturen dringen in die Lebenswelt der Menschen ein.
 - **Gesichter und Zeichen:** An den Orten des Erwachens tauchen unheimliche Muster, Schemen oder Gesichter in Baumrinde, Moos oder Rost auf, oft begleitet von einem Wispern.
-- **Zorn:** Das Wirken löst bei Sterblichen und Tieren zerstörerische Emotionen aus, von Schlaflosigkeit bis zu brennendem Hass.
 
-Durch das Einpflanzen des "Keims des Landes" am Ende eines Heiligengangs in [[firunen]] wuchs rasend schnell ein gigantischer Ahornbaum, was als Zeichen gewertet wird, dass ein magisches Band zwischen Menschen und dem Land geknüpft werden kann.
 
 ## 📊 I. Physische Manifestationen (System-Anomalien)
 Das Erwachen durchbricht die etablierten Naturgesetze und richtet sich aktiv gegen die menschliche Zivilisation, um sich selbst zu heilen und zu verteidigen.
