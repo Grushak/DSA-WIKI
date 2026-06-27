@@ -42,6 +42,7 @@ Das Erwachen durchbricht die etablierten Naturgesetze und richtet sich aktiv geg
 - **Flora (Hyper-Wachstum):** Pflanzen ignorieren Jahreszeiten. Tote Holzbalken in Häusern oder Wagenrädern schlagen plötzlich Wurzeln und treiben aus. Wuchernde Dornenhecken entstehen über Nacht und blockieren Straßen.
 %%
 - **Fauna (Gigantismus & Aggression):** Tiere werden unberechenbar und jähzornig. Hasen rotten sich zu aggressiven Schwärmen zusammen. Spezifische "Erwachte Tiere" (z.B. [[bornbaeren]], [[streifendachse]]) wachsen auf das Doppelte ihrer Größe an, ihre Haut wird borkig, Äste wachsen wie Hörner aus ihren Körpern.
+%%
 - **Elementares Chaos:** Das Wetter verliert jede logische Vorherrschaft. Schneestürme verwandeln sich binnen Minuten in Sommerhitze. Bäche schwellen zu reißenden Strömen an, Sumpflöcher trocknen aus, und elementare Mindergeister verursachen Chaos in den Siedlungen.
 - **Geister:** Naturgeister wie der [[taarnaj]] (Gütiger Bär) manifestieren sich, um die Lebensenergie des Landes an verletzte Kulturschaffende weiterzugeben.
 
