@@ -34,6 +34,7 @@ Das Phänomen zeichnet sich durch drei Hauptaspekte aus:
 
 
 ## 📊 I. Physische Manifestationen (System-Anomalien)
+
 %%
 Das Erwachen durchbricht die etablierten Naturgesetze und richtet sich aktiv gegen die menschliche Zivilisation, um sich selbst zu heilen und zu verteidigen.
 %%
