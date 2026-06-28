@@ -1,10 +1,10 @@
 ![[hesinde-tempel-des-wissens]]
 Ein massiver Wissensspeicher. 
-Hier ruhen die Gebeine der [[Heilige Ancilla]]. _Primärer Ort für historische Recherchen._
+Hier ruhen die Gebeine der [[heilige-ancilla|Heilige Ancilla]]. _Primärer Ort für historische Recherchen._
 
-Hochgeweihte im Tempel: [[Linea Gänsekiel]]
+Hochgeweihte im Tempel: [[linea-gaensekiel|Linea Gänsekiel]]
 
-Novizen im Diskussionskreis: [[Mikola]], [[Bruscha]], [[Jelena]]
+Novizen im Diskussionskreis: [[mikola|Mikola]], [[bruscha|Bruscha]], [[jelena|Jelena]]
 
 Die bibliothekarin ist die Hochgeweite im Tempel.
 

@@ -26,7 +26,7 @@ draft: false
 ### 🌱 Das Erwachen des Landes
 Das Bornland "erwacht" langsam. Dies äußert sich durch starke elementare Effekte, Geistererscheinungen sowie zornige Visionen und Träume.
 
-Das Land wehrt sich: Wälder und Flüsse wuchern und erobern sich menschliches Kulturland zurück, und Tiere werden ungewöhnlich aggressiv. Die treibende Kraft wird oft einem mystischen "Herrn des Landes" zugeschrieben (spekuliert wird über [[levthan]], [[firun]], [[Kor]], den [[namenlosen]], [[milzenis]] oder unbenannte Giganten).
+Das Land wehrt sich: Wälder und Flüsse wuchern und erobern sich menschliches Kulturland zurück, und Tiere werden ungewöhnlich aggressiv. Die treibende Kraft wird oft einem mystischen "Herrn des Landes" zugeschrieben (spekuliert wird über [[levthan]], [[firun]], [[kor|Kor]], den [[namenlosen]], [[milzenis]] oder unbenannte Giganten).
 
 Das Phänomen zeichnet sich durch drei Hauptaspekte aus:
 - **Urtümlichkeit:** Naturkräfte, Pflanzen und magische Kreaturen dringen in die Lebenswelt der Menschen ein.

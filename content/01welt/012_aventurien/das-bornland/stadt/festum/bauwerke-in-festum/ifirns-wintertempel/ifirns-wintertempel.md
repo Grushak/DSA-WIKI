@@ -29,7 +29,7 @@ Der Tempel hat oft keine schweren, verriegelten Tore. Die Architektur ist luftig
 
 ## SL-Daten & Taktische Details
 - **Relevanz für die "Trug-Gold"-Ermittlung:**
-    - **Lutgerdas Rettung:** Nachdem [[magister-xandros|Xandros]] das Opfer [[Lutgerda|Lutgerda]] "seelisch erfroren" und blutleer zurückgelassen hat, ist der Ifirn-Tempel der einzige Ort, an dem man weiß, wie man diese dämonische Kälte vertreibt. [[jalani|Jalani]] könnte hier mit Elmira zusammenarbeiten, um Lutgerda zu heilen.
+    - **Lutgerdas Rettung:** Nachdem [[magister-xandros|Xandros]] das Opfer [[lutgerda|Lutgerda]] "seelisch erfroren" und blutleer zurückgelassen hat, ist der Ifirn-Tempel der einzige Ort, an dem man weiß, wie man diese dämonische Kälte vertreibt. [[jalani|Jalani]] könnte hier mit Elmira zusammenarbeiten, um Lutgerda zu heilen.
     - **Informationen über das Umland:** Wenn [[magister-xandros|Xandros]] aus der Stadt flieht (Richtung Bornwald), können die Ifirn-Geweihten den Helden wertvolle Tipps über geheime Pfade oder verlassene Köhlerhütten geben.
     - **Unterschlupf:** Wenn der "Rote Salamander" die Helden aufgrund fehlender Beweise juristisch jagt, bietet der Wintertempel ein bescheidenes, aber sicheres Asyl ("Winterfrieden").
 - **Finanzierung:** Spenden der Bürger und Verkauf von gesegneten Jagdartikeln oder Pelzen.

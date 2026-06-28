@@ -3,7 +3,7 @@ tags: [NSC, Charakterbogen, Festum, Zwerg, Schmuggler, Zielscheibe, Schwarzer_Lo
 ort: [[Festum]] (Das Riff der verdorrenden Kehlen)
 beruf: Ahnungsloser Meister-Schmuggler im Rausch
 status: In akuter Lebensgefahr (ohne es zu wissen)
-bezug: [[Frau mit der Maske]], [[Halle des Quecksilbers]], [[Schwarzer Lotos]]
+bezug: [[Frau mit der Maske]], [[Halle des Quecksilbers]], [[schwarzer-lotos|Schwarzer Lotos]]
 ---
 
 # 🛢️ NSC-Werteakte: Gnorosch "Fassbeißer" (Die wandelnde Zielscheibe)

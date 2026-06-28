@@ -24,7 +24,7 @@ Die 300 Ratsherren bilden das politische Fundament. In der Theorie ist dies eine
 | **Mirhiban al'Orhima** | Großhändlerin | Gewürzhandel / Profit-Logik. |
 | **Wassili von Festum** | Patrizier | Traditioneller Patrioten-Mitläufer. |
 | **Strohmänner Surjeloff** | Mehrere Sitze | Familien-Einfluss durch Kauf. |
-| [[Okil Kawaszek]] | Patrizier | Einflussreich. |
+| [[okil-kawaszek|Okil Kawaszek]] | Patrizier | Einflussreich. |
 
 
 

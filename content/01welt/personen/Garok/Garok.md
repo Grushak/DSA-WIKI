@@ -2,7 +2,7 @@
 tags: [NSC, Charakterbogen, Festum, Goblin, Suulak, Rottenführer, Unterwelt]
 ort: [[Festum]] (Das Goblin-Ghetto Suulak)
 beruf: Rottenführer / "Türsteher" für Mantka Riiba
-bezug: [[Mantka Riiba]], [[Adeptus Olko Knaack]]
+bezug: [[mantka-riiba|Mantka Riiba]], [[Adeptus Olko Knaack]]
 ---
 
 # 🐗 NSC-Werteakte: Garok 

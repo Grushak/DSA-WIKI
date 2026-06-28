@@ -12,7 +12,7 @@ draft: false
 
 
 ## Kurzbeschreibung
-Dere ist die Welt, auf der [[012_aventurien|Aventurier]], [[myranor|Myraner]], [[014_riesland|Riesländer]] und [[013_uthuria|Uthurier]] leben.
+Dere ist die Welt, auf der [[012aventurien|Aventurier]], [[myranor|Myraner]], [[014riesland|Riesländer]] und [[013uthuria|Uthurier]] leben.
 
 ## Kosmologie & Schöpfungsmythen
 *   **Der Zwölfgötter-Glaube:** Besagt, die Welt entstand, als [[los|Los]] die Urriesin [[sumu|Sumu]] erschlug. Sie wird daher *Sumus Leib* genannt, was Sphärologen manchmal als Bezeichnung der Zweiten Sphäre (von diesen auch als Dere und Feste bezeichnet) missverstehen.
@@ -22,18 +22,18 @@ Dere ist die Welt, auf der [[012_aventurien|Aventurier]], [[myranor|Myraner]], [
 
 ## Kontinente & Landmassen
 Die Sumulogie zu Zeiten [[rohal-der-weise|Rohals des Weisen]] vermutete, Dere sei eine Scheibe und bestehe aus 36 Landen (Kontinenten). Dazu zählen unter anderem:
-*   [[011_gueldenland|Güldenland]]
-*   [[012_aventurien|Aventurien]]
-*   [[013_uthuria|Uthuria]] (Landt der Feuermenschen)
-*   [[014_riesland|Riesland]]
-*   [[015_yetiland|Yetiland]] (Landt der Schneemenschen)
-*   [[016_maraskan|Alabastrien / Maraskan]]
-*   [[017_adamantenlandt|Adamantenlandt]]
-*   [[018_praioslandt|Praioslandt]] (Inseln der Fenvar?)
-*   [[019_dracheninsel|Drachenlandt]] (Dracheninsel)
-*   [[020_lahmaria|Efferdlandt]] (Lahmaria)
-*   [[021_zyklopeninseln|Zyklopeninseln]] (Land der Einäugigen)
-*   [[swafnirlandt|Swafnirlandt]]
+*   [[011gueldenland|Güldenland]]
+*   [[012aventurien|Aventurien]]
+*   [[013uthuria|Uthuria]] (Landt der Feuermenschen)
+*   [[014riesland|Riesland]]
+*   [[015yetiland|Yetiland]] (Landt der Schneemenschen)
+*   [[016maraskan|Alabastrien / Maraskan]]
+*   [[017adamantenlandt|Adamantenlandt]]
+*   [[018praioslandt|Praioslandt]] (Inseln der Fenvar?)
+*   [[019dracheninsel|Drachenlandt]] (Dracheninsel)
+*   [[020lahmaria|Efferdlandt]] (Lahmaria)
+*   [[021zyklopeninseln|Zyklopeninseln]] (Land der Einäugigen)
+*   [[022swafnirlandt|Swafnirlandt]]
 
 *Hinweis:* Fremde Orte wie [[tharun|Tharun]] oder [[ras-tabor|Ras Tabor]] wurden oft von Aventuriern falsch verstanden und platziert.
 

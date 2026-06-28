@@ -12,7 +12,7 @@ Die Blauen Pfeile sind ein hochprofessioneller, überregionaler Kurier- und Bote
 ## Bekannte Mitglieder & Struktur
 - **Organisation & Standorte:** Sie sind eng mit dem aranischen Herrscherhaus verbunden und besitzen Niederlassungen im Bereich zwischen Gareth und Selem, sowie einen logistischen Hauptsitz (Knotenpunkt) in **Festum**.
 - **Kundenklientel:** Reiche Pfeffersäcke (Händler), Bronnjaren, die Stadtverwaltung und hochrangige Offiziere. Für den einfachen Bürger sind sie in der Regel zu teuer.
-- **Lokale Akteure:** [[Jalani (Johnatan)]] übt Bogenschießen bei den Blauen Pfeilen und lernt dort auch die Goblin-Anwärterin [[Kunga]] kennen.
+- **Lokale Akteure:** [[jalani-johnatan|Jalani (Johnatan)]] übt Bogenschießen bei den Blauen Pfeilen und lernt dort auch die Goblin-Anwärterin [[kunga|Kunga]] kennen.
 
 ## Einfluss & Ressourcen
 - **Erscheinungsbild:** Die Boten sind leicht an ihrer namensgebenden Kleidung zu erkennen – oft tragen sie blaue Wappenröcke, blaue Kappen oder Umhänge mit dem Symbol eines gefiederten Pfeils. (Regeltechnisch handelt es sich um eine Variante der Reisenden- und Wildnis-Profession Botenreiterin).
