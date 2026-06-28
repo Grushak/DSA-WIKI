@@ -1,34 +1,37 @@
 ---
+aliases: ["Hannik"]
+draft: false
+tags: [dsa, npc, bornland, barde]
 title: "Hannik von Hundehufen"
 type: "Charakter"
-tags: [dsa, npc, barde, komponist, bornland, norburg, festum, roter-chor]
-aliases: []
-image: "assets/bilder/npcs/hannik-von-hundehufen.jpg"
 ---
+
 # 👤 Hannik von Hundehufen
 
-## Optik & Erscheinungsbild
-Hannik ist ein 61-jähriger (Stand 1039 BF) Mensch. Er wird als etwas aufgedunsen beschrieben. Sein Äußeres spiegelt seinen wohlhabenden Status als sehr bekannter bornischer Heimatdichter wider.
+| Porträt | Informationen |
+| :--- | :--- |
+| ![[hannik-von-hundehufen.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Hannik von Hundehufen <br> **II. Kurzname:** Hannik <br> **III. Aussehen:** <br> 61-jähriger (Stand 1039 BF) Mensch. Er wird als etwas aufgedunsen beschrieben. Sein Äußeres spiegelt seinen wohlhabenden Status als sehr bekannter bornischer Heimatdichter wider. <br> **IV. Charakter / Verhalten:** <br> Er ist äußerst charmant, sehr patriotisch und pflegt Kontakte zu bedeutenden Persönlichkeiten. Hannik liebt das Bornland abgöttisch, hegt jedoch einen tiefen Abscheu gegenüber politischem Betrieb. Er braucht stets eine "Mission", um motiviert zu sein. Er ist empfindlich gegenüber Störungen und legt großen Wert auf seine gesellschaftliche Stellung; bei Unterbrechungen kann er sehr abweisend reagieren. |
 
-## Verhalten & Mentalität
-Er ist äußerst charmant, sehr patriotisch und pflegt Kontakte zu bedeutenden Persönlichkeiten. Hannik liebt das Bornland abgöttisch, hegt jedoch einen tiefen Abscheu gegenüber politischem Betrieb. Er braucht stets eine "Mission", um motiviert zu sein. Er ist empfindlich gegenüber Störungen und legt großen Wert auf seine gesellschaftliche Stellung; bei Unterbrechungen kann er sehr abweisend reagieren.
-Gesellschaftliche Anerkennung und das Erschaffen von patriotischen Meisterwerken.
+---
 
-## Bekannte Verbindungen
-- **Zugehörigkeit:** Freiberuflicher Barde / Komponist
-- **Verbündete:** [[reijkad-stellmacher|Reijkad Stellmacher]]
-- **Feinde:** [[]]
+### 📝 Weitere Details
+**Position:** Freiberuflicher Barde / Komponist (Sehr bekannter bornischer Heimatdichter)
+**Aufgaben:** Das Erschaffen von patriotischen Meisterwerken.
+**Politische Stellung:** Wohlhabender Status und gesellschaftlich hoch anerkannt, meidet aber den aktiven politischen Betrieb strikt.
+**Kontakte:** [[reijkad-stellmacher|Reijkad Stellmacher]]
+**Restliche Infos:** Er hat derzeit keine nennenswerten oder bekannten Feinde.
 
+---
 
 %%
-
 ## SL-Bereich
-
 ## Spielwerte & Meister-Daten
-- **Wahre Motivation:** Gesellschaftliche Anerkennung und das Erschaffen von patriotischen Meisterwerken. Er ist sich der Tragweite der dunklen Mächte (wie dem Korsmal-Bund) nicht bewusst.
-- **Geheimnisse / Schwächen:** Er hatte während des Bardentreffens in Norburg (1039 BF) Kontakt mit dem [[korsmal-bund|Korsmal-Bund]] (Ischtan von Quelldunkel, Woltan von Ilmenstein). Er lehnte zwar eine Reise nach Notmark ab, stand der Idee eines "Korbunds" aber grundsätzlich positiv gegenüber, da er deren dunkle Natur nicht durchschaut hat.
-- **Kampfwerte (Crunch):**
-    * *Sagen & Legenden:* 12 (13/13/14)
-    * *Willenskraft:* 10 (13/14/15)
-    * *Seelenkraft (SK):* 2
+
+- **Spielwerte (Crunch):**
+    - *LeP:* (Nach Meisterermessen, ca. 28) | *AsP/KaP:* - | *RS:* 0 (Edle Kleidung)
+    - *Waffen:* Keine nennenswerten Kampffertigkeiten (verlässt sich auf seinen Status).
+    - *Wichtige Talente:* Musizieren, Singen, Etikette, Sagen & Legenden, Überreden (Charmant).
+- **Geheime Motivation:** Die uneingeschränkte gesellschaftliche Anerkennung und das Erschaffen von patriotischen Meisterwerken, die ihn im Bornland unsterblich machen.
+- **Geheimnisse:** Keine dunklen Machenschaften; er ist exakt der exzentrische, patriotische Künstler, der er vorgibt zu sein.
+- **Intrigen & Pläne:** Er sucht kontinuierlich nach der nächsten großen "Mission" oder Inspiration, um seine Kunst zu befeuern, und nutzt dafür schamlos seine Kontakte zu bedeutenden Persönlichkeiten.
 %%

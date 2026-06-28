@@ -4,7 +4,7 @@ Hier ruhen die Gebeine der [[heilige-ancilla|Heilige Ancilla]]. _Primärer Ort f
 
 Hochgeweihte im Tempel: [[linea-gaensekiel|Linea Gänsekiel]]
 
-Novizen im Diskussionskreis: [[mikola|Mikola]], [[bruscha|Bruscha]], [[jelena|Jelena]]
+Novizen im Diskussionskreis: [[mikola|Mikola]], [[bruscha|Bruscha]], [[01welt/personen/jelena 1/jelena|Jelena]]
 
 Die bibliothekarin ist die Hochgeweite im Tempel.
 

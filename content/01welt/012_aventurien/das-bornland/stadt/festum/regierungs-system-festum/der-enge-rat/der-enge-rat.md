@@ -19,10 +19,10 @@ Diese Personen steuern oder blockieren das gesamte System:
 | :--- | :--- | :--- |
 | [[iwan-dunjakin]] | Erster Bürgermeister | Freibund. Pragmatiker. |
 | [[prishya-von-garlischgroetz]] | Zweite Bürgermeisterin | Patrioten. Traditionalistin. |
-| [[elkman-timpski]] | Hauptmann der Stadtgarde | Opportunist / Patrioten. |
+| [[02. Campanie/022. Persoen/0221. NSC/Militär/Elkman Timpski/elkman-timpski]] | Hauptmann der Stadtgarde | Opportunist / Patrioten. |
 | [[surka-tjeschkowa]] | Direktorin der Nordlandbank | Freibund. Mächtigste Frau im Hintergrund. |
 | [[ugol-danilenko]] | Zunftmeister der Schiffbauer | Freibund. Pragmatiker. |
-| [[jaunava-dagoneff]] | Spektabilität (Halle des Quecksilbers) | Neutral / Elitär. |
+| [[01welt/personen/jaunava-dagoneff/jaunava-dagoneff]] | Spektabilität (Halle des Quecksilbers) | Neutral / Elitär. |
 | [[buergerin-gariola]] | Vorsteherin des Hesinde-Tempels | Klerus. Oft weltfremd. |
 | [[haldana-von-ilmenstein]] | Schwertmutter (Rondra-Tempel) | Klerus / Patrioten-nah. |
 | [[pelikan-von-garlischgroetz]] | Kaufmann / Patrizier | Patrioten. Aggressiver Arm der Bürgermeisterin. |

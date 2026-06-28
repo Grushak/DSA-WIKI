@@ -1,70 +1,65 @@
 ---
+aliases: ["Abu’l-Khet"]
+draft: false
+tags: [dsa, npc, festum, magier, tulamide, alchimie]
 title: "Abu’l-Khet ibn Rashid"
 type: "Charakter"
-tags: [dsa, nsc, magier, khunchom, festum, alchimie, verbuendeter]
-kampagne: "Das Schwarze Auge - Bornland"
-ort: "[[festum]]"
-fraktion: "Dracheneiakademie zu Khunchom"
-draft: false
 ---
 
 # 👳🏽‍♂️ Abu’l-Khet ibn Rashid
 
-| Porträt                  | Informationen                                                                                                                                                                                                                                                                                                                 |
-| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Abu’l-Khet.jpg\|650]] | ![[DieDrachenei-AkademieZuKhunchomWappen.jpg\|154]] <br><br> **I. Titel & Name:** Abu’l-Khet ibn Rashid <br> **II. Kurzname:** Abu’l-Khet <br> **III. Aussehen:** <br> Tulamide (Mitte 50), kupferfarbene Haut, schwarz-silberner Spitzbart. <br> **IV. Charakter / Verhalten:** <br> Höflich, gastfreundlich, intellektuell. |
+| Porträt | Informationen |
+| :--- | :--- |
+| ![[abul-khet-ibn-rashid.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Abu’l-Khet ibn Rashid <br> **II. Kurzname:** Abu’l-Khet <br> **III. Aussehen:** <br> Tulamide (Mitte 50). Kupferfarbene Haut, ein kunstvoll gestutzter schwarz-silberner Spitzbart. Er trägt eine tiefblaue Seidenrobe mit Sternenstickerei, kombiniert mit einem absurden, dicken Bärenfellmantel gegen die bornische Kälte. <br> **IV. Charakter / Verhalten:** <br> Höflich, gastfreundlich, intellektuell. Er spricht mit einem warmen Akzent und nutzt blumige Metaphern. Er fröstelt ständig, bietet aber stets zuckersüßen Minztee an. |
 
 ---
 
-### 👁️ Optische Beschreibung für den Spieltisch
+### 📝 Weitere Details
+**Position:** Spectabilitas-Gastdozent der [[drachenei-akademie|Drachenei-Akademie]] zu [[khunchom|Khunchom]], Meisteralchimist
+**Aufgaben:** Lehre der Artefaktmagie und [[chrysopoeia|Chrysopoeia]] (Goldmacherei).
+**Politische Stellung:** Unabhängiger Gastdozent; steht außerhalb der Festumer Akademierivalitäten.
+**Kontakte:** [[wassili|Wassili]] (Mentor)
+**Restliche Infos:** *"Wisse, junger Kollege, Gold aus der Retorte ist ein Traum. Gold aus Blut ist ein Fluch. Wer dieses Gold besitzt, besitzt nicht den Reichtum, sondern dieses Gold besitzt ihn."* Er ist der Schlüssel zur Entschlüsselung von [[trug-gold|Trug-Gold]].
+[[gespraech-ueber-die-transmutation|Gespräch über die Transmutation]]
 
-> _"Als ihr den Hörsaal betretet, seht ihr keinen der üblichen grauen Gelehrten. Am Pult steht ein Mann, der wirkt, als wäre er direkt aus einem Märchen aus den Tulamidenlanden entsprungen – und der hier oben im Norden furchtbar friert. Er trägt eine tiefblaue, weite Seidenrobe, in die mit echtem Silberfaden fremdartige Sternenkonstellationen gestickt sind. Darüber hat er sich, wohl aus reiner Verzweiflung über die Festumer Kälte, einen dicken, weißen Bärenfellmantel geworfen, was einen herrlich absurden Kontrast bildet._
-> 
-> _Seine Haut hat die Farbe von dunklem, warmem Kupfer, sein schwarzer Bart ist mit ersten Silberfäden durchzogen und so kunstvoll und spitz gestutzt, dass kein einziges Haar absteht. An seinen Fingern blitzen unzählige schwere Goldringe – und im Gegensatz zu den Festumer Alchimisten riecht er nicht nach Schwefel und Säure, sondern eine schwere, süßliche Wolke aus Weihrauch, Kardamom und teuren Harzen umgibt ihn."_
+### Die alchimistische Blutlinie (Khunchomer Tradition)
 
-> *"Gold aus der Retorte, werte Kollegen, ist ein Traum für Narren. Die Elemente lassen sich biegen, ja – aber sie hassen es. Und wenn man sie zwingt, fordern sie einen Preis, der stets höher ist als der Ertrag."*
+> **Abu’l-Khet ibn Dschelef ai'Zahabi sal Khunchom**
 
-## 📋 Grunddaten
-* **Titel:** Spectabilitas-Gastdozent der Dracheneiakademie
-* **Rolle:** Mentor für [[wassili]], Experte für Artefaktmagie und die *Chrysopoeia* (Goldmacherei).
-* **Motivation:** Die Gesetze der Magie studieren und bewahren. Er ist fasziniert von der rauen Magie des Nordens, verabscheut aber unethische Alchimie.
-
+- **Bedeutung:** Abu’l-Khet, Sohn des Dschelef, aus der Sippe der Zahabi ("die Goldenen"), beheimatet in Khunchom.
+    
+- "Dschelef" ist ein absoluter Traditionsname in der Drachenei-Akademie, und die Sippe "der Goldenen" passt wie die Faust aufs Auge zu einem Meisteralchimisten, der über Gold doziert.
 ---
-
-## 👁️ Erscheinungsbild & Auftreten
-* **Optik:** Älterer Tulamide (Mitte 50). Kupferfarbene Haut, gepflegter schwarz-silberner Spitzbart. 
-* **Kleidung:** Tiefblaue Seidenroben mit aufgestickten Sternbildern (Tulamidischer Stil), kombiniert mit einem dicken, unpassenden Pelzmantel gegen die bornische Kälte. Trägt auffällig viele, echte Goldringe (magische Artefakte).
-* **Geruch:** Eine Wolke aus Weihrauch, Kardamom und seltenen Harzen umgibt ihn.
-* **Verhalten:** Spricht mit einem warmen, weichen Akzent. Er ist höflich, gastfreundlich (bietet immer zuckersüßen Minztee an) und nutzt blumige Metaphern. Er fröstelt fast ununterbrochen und reibt sich oft die Hände.
-
----
-
-## 🧠 Wissen & Expertise
-
-> [!info] **Die Drei Pfade des Goldes**
-> Abu'l-Khet ist der Schlüssel, um den Helden die Natur von [[magister-xandros]]' Verbrechen zu erklären. Er kennt die Unterscheidung zwischen:
-> 1. Natürlichem Gold (Ingerimm-gefällig)
-> 2. Alchimistischem Gold (Kostet permanente AsP, extrem ineffizient)
-> 3. Dämonischem [[trug-gold]] (Vampirische Transmutation durch Opferung von Leben).
-
-* **Der Verdacht:** Er hat in alten Schriften von einer dämonischen Entität namens *Lulshat* gelesen und spürt, dass das falsche Gold in der Festumer Akademie eine "hungrige, metallische Aura" hat.
-
----
-
-## 🔗 Verknüpfungen zum Plot
-* **Der Vortrag:** Hält in der [[halle-des-quecksilbers]] einen Vortrag über magische Verstärkung in der Alchimie. Hier kann [[wassili]] ihn zuerst ansprechen.
-* **Gegenpol zu Xandros:** Als gilden-externer Gast steht er außerhalb der Festumer Akademie-Politik. Er ist nicht in die Streitigkeiten mit dem [[roter-salamander]] verwickelt und daher ein objektiver, sicherer Ansprechpartner für die Helden.
-* **Unterstützung im Finale:** Kann den Helden (speziell [[wassili]]) ein temporäres Artefakt oder Elixier ("Blick in die wahre Matrix") überlassen, um Xandros' Illusionen in der Spiegelarena zu durchschauen.
 
 %%
 ## SL-Bereich
 ## Spielwerte & Meister-Daten
 
 - **Spielwerte (Crunch):**
-    - *LeP:* | *AsP/KaP:* | *RS:* 
-    - *Waffen:* [[waffe1\|Name]] (AT/TP)
-    - *Wichtige Talente:* 
-- **Geheime Motivation:** *Was treibt die Person im Hintergrund an?*
-- **Geheimnisse:** *Leichen im Keller, Pakt-Ansätze.*
-- **Intrigen & Pläne:** *Wie manipuliert dieser NPC das System?*
+    - *Eigenschaften:* MU 12 | KL 15 | IN 14 | CH 14 | FF 13 | GE 11 | KO 11 | KK 10
+    - *LeP:* 26 | *Wichtige Talente:* Alchimie 16, Artefaktmagie 15, Magiekunde 15, Geschichtswissen 12, Überreden 12.
+- **Geheime Motivation:** Erforschung und Bewahrung der Gesetze der Magie. Er spürt die "hungrige, metallische Aura" des falschen Goldes in Festum.
+- **Geheimnisse:** Er erkennt den Unterschied zwischen natürlichem, alchimistischem und dämonischem Gold. Er hat die Existenz der Entität [[lulshat|Lulshat]] in alten Schriften entdeckt.
+- **Intrigen & Pläne:**
+    - **Mentor für Wassili:** Er fungiert als objektive Informationsquelle, da er nicht in die Rivalität zwischen der [[halle-des-quecksilbers|Halle des Quecksilbers]] und dem [[rote-salamander|Roten Salamander]] verstrickt ist.
+    - **Unterstützung im Finale:** Er kann den Helden ein temporäres Artefakt oder Elixier („Blick in die wahre Matrix“) geben, um Illusionen von [[magister-xandros|Xandros]] zu durchschauen.
+    - **Handlungshinweis:** Falls die Helden ihn um Hilfe bitten, fordert er im Gegenzug eine sorgfältige Dokumentation der magischen Anomalien (wie das mutierte Eschenholz) für seine Forschungen an.
+%%
+
+### Die alchimistische Blutlinie (Khunchomer Tradition)
+
+> **Abu’l-Khet ibn Dschelef ai'Zahabi sal Khunchom**
+
+- **Bedeutung:** Abu’l-Khet, Sohn des Dschelef, aus der Sippe der Zahabi ("die Goldenen"), beheimatet in Khunchom.
+    
+- **Warum es passt:** "Dschelef" ist ein absoluter Traditionsname in der Drachenei-Akademie, und die Sippe "der Goldenen" passt wie die Faust aufs Auge zu einem Meisteralchimisten, der über Trug-Gold doziert.
+
+%%
+
+## 🎭 Rollenspiel-Hinweise für den Meister
+
+* **Der Dauerfrierende:** Lass ihn immer wieder seinen dicken Bärenfellmantel enger um sich ziehen, sich an einer heißen Tasse Tee die Hände wärmen oder leicht schaudern, wenn jemand das Fenster im Hörsaal offen lässt.
+* **Sprache & Habitus:** Er spricht melodisch, gewählt und mit einer gewissen tulamidischen Theatralik. Nutze Metaphern aus Tausendundeiner Nacht ("So gewiss wie der Sand in der Wüste...", "Wie ein Tropfen Wasser auf glühendem Stein..."). 
+* **Seine Rolle für die Gruppe (Speziell Wassili):** Er ist der "Exposition-Spender", aber auf eine charmante Art. Er verurteilt Xandros' Taten nicht nur als Magier, sondern sieht darin eine fundamentale, fast schon philosophische Beleidigung der Alchimie. Er liefert den Helden den theoretischen Beweis, *warum* Xandros zwingend Blut und Menschenopfer (Haare) für sein Trug-Gold braucht.
+
 %%

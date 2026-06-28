@@ -1,30 +1,37 @@
 ---
+aliases: ["Reijkad"]
+draft: false
+tags: [dsa, npc, festum, kultur, barde]
 title: "Reijkad Stellmacher"
 type: "Charakter"
-tags: [dsa, npc, festum, roter-chor, komponist, bornland]
-aliases: []
-image: "assets/bilder/npcs/reijkad-stellmacher.jpg"
 ---
+
 # 👤 Reijkad Stellmacher
 
-## Optik & Erscheinungsbild
-Reijkad ist ein Mann von etwa 35 Jahren (Stand 1040 BF) bis 44 Jahren (1049 BF). Er besitzt eine dickliche Statur und einen eher fülligen Körperbau. Sein markantestes Merkmal ist eine auffallend schmale Nase. Sein distinguiertes, exzentrisches Auftreten wird durch seine knallrote Weste und ein Monokel an einem Auge unterstrichen.
+| Porträt | Informationen |
+| :--- | :--- |
+| ![[reijkad-stellmacher.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Reijkad Stellmacher <br> **II. Kurzname:** Reijkad <br> **III. Aussehen:** <br> Mann von etwa 35 Jahren (Stand 1040 BF) bis 44 Jahren (1049 BF). Er besitzt eine dickliche Statur und einen eher fülligen Körperbau. Sein markantestes Merkmal ist eine auffallend schmale Nase. Sein distinguiertes, exzentrisches Auftreten wird durch seine knallrote Weste und ein Monokel an einem Auge unterstrichen. <br> **IV. Charakter / Verhalten:** <br> Stellmacher ist ein Visionär. Er ist überzeugt davon, dass Goblins zu komplexer, mehrstimmiger und berührender Kunst fähig sind. Er tritt offensiv gegen die Vorurteile der Festumer Bürger an und nutzt seine Musik als politisches und kulturelles Werkzeug. |
 
+---
 
-## Verhalten & Mentalität
-Stellmacher ist ein Visionär. Er ist überzeugt davon, dass Goblins zu komplexer, mehrstimmiger und berührender Kunst fähig sind. Er tritt offensiv gegen die Vorurteile der Festumer Bürger an und nutzt seine Musik als politisches und kulturelles Werkzeug.
-Leiter des [[01welt/012_aventurien/das-bornland/stadt/festum/bauwerke-in-festum/konzil-der-kuenste/konzil-der-kuenste|Konzils der Künste]]
+### 📝 Weitere Details
+**Position:** Leiter des Konzils der Künste
+**Aufgaben:** Gründer & Leiter des Roten Chors.
+**Politische Stellung:** Politischer und kultureller Aktivist gegen die Vorurteile der Festumer Bürger.
+**Kontakte:** [[der-rote-chor|Der Rote Chor]], [[hannik-von-hundehufen|Hannik von Hundehufen]]
+**Restliche Infos:** Nutzt seine Musik offensiv als politisches und kulturelles Werkzeug, um die Akzeptanz von Goblins zu fördern.
 
-## Bekannte Verbindungen
-- **Zugehörigkeit:** [[der-rote-chor|Der Rote Chor]] (Gründer & Leiter)
-- **Verbündete:** [[hannik-von-hundehufen|Hannik von Hundehufen]]
+---
 
-## SL-Bereich
 %%
+## SL-Bereich
 ## Spielwerte & Meister-Daten
-- **Wahre Motivation:** Etablierung des Chors als gesellschaftlich anerkannte Kunstform und Widerlegung der rassistischen Vorurteile gegenüber Goblins in Festum.
-- **Geheimnisse / Schwächen:** Er ist in seiner künstlerischen Vision oft so fokussiert, dass er die politischen Gefahren, denen er sich und seine "Suulak" aussetzt, unterschätzt.
-- **Hintergrund-Daten:** 
-    - Er arbeitet mit rund 80 Goblin-Frauen (Festumer Suulak) zusammen.
-    - Höhepunkt seiner Arbeit war die Adelsversammlung in Festum 1040 BF.
+
+- **Spielwerte (Crunch):**
+    - *LeP:* (Nach Meisterermessen) | *AsP/KaP:* - | *RS:* 0 (Edle Kleidung)
+    - *Waffen:* Waffenlos (Raufen)
+    - *Wichtige Talente:* Musizieren, Singen, Überreden, Etikette, Menschenkenntnis, Sagen & Legenden
+- **Geheime Motivation:** Er will den engstirnigen Bürgern beweisen, dass die Goblin-Kultur ebenso tiefgründig und schützenswert ist wie die der Menschen.
+- **Geheimnisse:** Keine bekannten dunklen Geheimnisse. Er agiert aus ehrlicher, visionärer Überzeugung.
+- **Intrigen & Pläne:** Plant stetig neue kulturelle Vorführungen mit seinem Roten Chor, die das konservative Weltbild Festums ins Wanken bringen sollen.
 %%

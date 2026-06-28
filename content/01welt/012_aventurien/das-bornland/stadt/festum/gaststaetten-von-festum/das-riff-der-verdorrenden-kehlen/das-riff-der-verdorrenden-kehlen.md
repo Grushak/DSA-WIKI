@@ -27,7 +27,7 @@ Ein Stück rauer Norden mitten in Festum. Wer das 'Riff' betritt, lässt die fei
 ## Funktion & Relevanz
 Das Riff ist der absolute Stammladen für harte Seeleute, raue Thorwaler, Schmuggler, Schläger und Tagelöhner. Besonders die ansässigen und durchreisenden Thorwaler verkehren hier in großen Massen.
 - **Dienstleistungen:** Laut offiziellem DSA-Wertenetz bietet es schlechtes Essen (Q1), ist aber spottbillig (P2) und bietet 28 Schlafplätze in schäbigen Massenlagern oder winzigen, zugigen Kammern für jene, die den Weg zum eigenen Schiff nicht mehr schaffen.
-- **Aktuelle Gäste:** [[die-ottajasko-wellenschmeichler|Die Ottajasko Wellenschmeichler]] hat hier Quartier bezogen. Sie suchen nach ihrer Kameradin.
+- **Aktuelle Gäste:** [[ottajasko-wellenschmeichler|Die Ottajasko Wellenschmeichler]] hat hier Quartier bezogen. Sie suchen nach ihrer Kameradin.
 
 %%
 ## SL-Bereich
