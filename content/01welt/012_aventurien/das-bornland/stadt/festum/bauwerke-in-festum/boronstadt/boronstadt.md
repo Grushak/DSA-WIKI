@@ -1,1 +1,0 @@
-![[jodekspitze-boronstadt]]
