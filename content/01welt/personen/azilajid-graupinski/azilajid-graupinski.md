@@ -1,9 +1,9 @@
 ---
-title: "Azilajid Graupinski"
-type: "Charakter"
-tags: [dsa, nsc, festum, maraskan, soldatin, miliz]
 aliases: ["Azilajid"]
 draft: false
+tags: [dsa, nsc, festum, maraskan, soldatin, miliz]
+title: "Azilajid Graupinski"
+type: "Charakter"
 ---
 
 # 👤 Azilajid Graupinski

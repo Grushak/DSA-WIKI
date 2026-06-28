@@ -1,16 +1,9 @@
 ---
 beruf: Adept / Empfangssekretär des Roten Salamanders
-bezug:
-  - "[[daswadan-trantischekr|Daswadan Trantischek]]"
-  - "[[magister-xandros|Magister Xandros]]"
-  - "[[ilsi-ronderikdottir|Ilsi Ronderikdottir]]"
+bezug: ["[[daswadan-trantischekr|Daswadan Trantischek]]", "[[magister-xandros|Magister Xandros]]", "[[ilsi-ronderikdottir|Ilsi Ronderikdottir]]"]
 draft: false
 ort: "[[festum|Festum]] (Niederlassung des Roten Salamanders)"
-tags:
-  - nsc
-  - festum
-  - alchimie
-  - roter-salamander
+tags: [nsc, festum, alchimie, roter-salamander]
 title: Andrej Jennev
 type: Charakter
 ---
