@@ -157,6 +157,9 @@ plugins:
     layout:
       position: left
       priority: 50
+      options:
+      folderDefaultState: "open"  # Zwingt Quartz, Ordner offen anzuzeigen
+      folderClickBehavior: "link" # Erlaubt das Klicken auf Ordner-Links
   - source: github:quartz-community/graph
     enabled: true
     layout:
