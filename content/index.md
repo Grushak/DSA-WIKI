@@ -9,7 +9,7 @@ Willkommen im Nachschlagewerk für unsere Abenteuer, rund um den Theaterritteror
 
 
 ## Kategorien
-- [[oqwelt/Dere]]: Die Welt des DSA.
+- [[01welt/Dere]]: Die Welt des DSA.
 - [[Personen/Wassili Oljatow|Personen]]: Gefährten und Begegnungen.
 - [[Orte/Festum|Orte]]: Städte, Dörfer und markante Punkte.
 - [[Organisationen/Die Dornen|Organisationen]]: Bündnisse und Feinde.
