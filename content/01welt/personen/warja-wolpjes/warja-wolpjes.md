@@ -20,7 +20,7 @@ type: "Charakter"
 **Politische Stellung:** Unterschicht (Zugereiste / Nicht-Festumerin). Sie wurde aufgrund elitärer und fremdenfeindlicher Vorurteile aus der städtischen Miliz aussortiert.
 **Kontakte:** [[berschin-walroder|Berschin Walroder]], [[elkman-timpski|Hauptmann Elman Timpski]], [[tjalf-fassleerer|Tjalf Fassleerer]]
 **Restliche Infos:** 
-- **Die Rekrutierung:** Warja hatte sich ursprünglich für die städtische Miliz zum Atmaskot-Fest angemeldet, wurde von Timpski aber aussortiert. Leutnant Berschin Walroder übergab sie am Morgen des Festes an die Helden (offizielle Ausrede: „zu spät zur offiziellen Einarbeitung erschienen“).
+- **Die Rekrutierung:** Warja hatte sich ursprünglich für die städtische Miliz zum Atmaskot-Fest angemeldet, wurde von Timpski aber aussortiert. Leutnant [[Berschin Walroder]] übergab sie am Morgen des Festes an die Helden (offizielle Ausrede: „zu spät zur offiziellen Einarbeitung erschienen“).
 - **Logistik & Finanzen (Sold):** Die erste Sold-Hälfte wurde bereits von Walroder in Kupferstücken ausgezahlt. Die zweite Sold-Hälfte ist nach dem Ende des Festes offen und muss von den Helden aus eigener Tasche entrichtet werden, um ihre Loyalität zu sichern.
 
 ---

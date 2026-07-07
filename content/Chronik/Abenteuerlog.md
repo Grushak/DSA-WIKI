@@ -21,5 +21,5 @@
 - Suche nach der verschwundenen Thorwahlerin Ilsi.
 - Untersuchung von dämonischem Gold und "brauner Schlacke" im Goblinviertel [[Sulak]].
 - Verhandlungen mit [[Mantkariba]] über die Durchführung des [[Friedensfest der Kulturen|Friedensfestes]] in Sulak.
-- Erfolgreiche Durchführung der Veranstaltung mit Unterstützung von [[Okil Kawaschek]] als friedliches Gegengewicht zum offiziellen [[Atmaskot-Fest]].
+- Erfolgreiche Durchführung der Veranstaltung mit Unterstützung von [[Okil Kawaszek]] als friedliches Gegengewicht zum offiziellen [[Atmaskot-Fest]].
 - Entdeckung der Umtriebe des Alchemisten Magister Xandros (Diebstahl eines Drachenzahns).

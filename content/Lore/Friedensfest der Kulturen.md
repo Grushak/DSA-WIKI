@@ -6,6 +6,6 @@ Das Friedensfest der Kulturen ist die **alternative, integrative Gegenveranstalt
 - **Veranstaltungsort:** Das Fest findet bewusst im Goblinviertel [[Sulak]] statt, um den kulturellen Austausch vor Ort zu fördern.
 - **Organisation & Unterstützung:**
     - **Initiative:** Von den Helden organisiert und gegen bürokratische Widerstände (u.a. durch [[Elman Timpski]]) durchgesetzt.
-    - **Lokale Akteure:** Unterstützt durch [[Okil Kawaschek]] und [[Mantkariba]].
+    - **Lokale Akteure:** Unterstützt durch [[Okil Kawaszek]] und [[Mantkariba]].
     - **Protektion:** [[Oleana Fuxfehl | Oleana]] fungiert als offizielle Protektorin und verantwortet das Fest gegenüber dem [[Rat von Festum]].
 - **Charakter:** Im Gegensatz zur kriegerischen Stimmung des Hauptfestes stehen hier Gemeinschaft, Musik und der friedliche Dialog im Vordergrund.
