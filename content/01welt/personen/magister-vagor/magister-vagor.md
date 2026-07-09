@@ -1,5 +1,5 @@
 ---
-aliases: ["Vagor"]
+aliases: ["Vagor", "Magister Extraordinarius Vagor"]
 draft: false
 tags: [dsa, npc, festum, drakologie, museum, hesinde, ethnologie, vagor]
 title: "Magister Vagor"
@@ -15,7 +15,7 @@ type: "Charakter"
 ---
 
 ### 📝 Weitere Details
-**Position:** Magister extraordinarius, Drakologe, Ethnologe & Direktor des Museum Dracologicum in [[festum|Festum]]
+**Position:** Magister extraordinarius, Drakologe, Ethnologe & Direktor des Museum Dracologicum (auch [[Drachenmuseum]]) in [[festum|Festum]]
 **Aufgaben:** Leitung des Museums, Erforschung der Drachenmythen, Lehrtätigkeit als unabhängiger Gelehrter.
 **Politische Stellung:** Hochangesehener, unabhängiger Gelehrter.
 **Kontakte:** [[haus-onjaro|Haus Onjaro]], [[magister-xandros|Magister Xandros]] (betrügerisch)

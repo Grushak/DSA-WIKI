@@ -15,12 +15,12 @@ Das oberste Ziel (Das Monopol) ist die Kontrolle über den alchimistischen Markt
 - **Verbreitung:** Ganz Aventurien (mit großen Niederlassungen in Gareth, Vandal, Khûnchom und Punin).
 - **Struktur & Hierarchie:** Die Ausbildung verläuft klassisch handwerklich: *Lehrling ➔ Geselle ➔ Meister*. An der Spitze steht der innere Zirkel der Großmeister in Festum, der die weltweiten Geschicke der Gilde lenkt.
 - **Mitglieder:** Vorwiegend profane (nicht-magische) Gelehrte, Handwerker, Kräuterkundige und einige Magiedilettanten oder Gildenmagier.
-- **Bekannte Personen:** [[daswadan-trantischekr|Daswadan Trantischek]], [[Meisterin Linja Jantareff]] (Erste Probenprüferin zu Festum).
+- **Bekannte Personen:** [[daswadan-trantischekr|Daswadan Trantischek]], [[andrej-jennev|Andrej Jennev]], [[Meisterin Linja Jantareff]] (Erste Probenprüferin zu Festum).
 
 ## Einfluss & Ressourcen
 Wer in Aventurien professionell Tränke, Elixiere oder alchimistische Substanzen verkaufen will, kommt an ihnen kaum vorbei. Da sie keine Magie benötigen, können sie in gigantischen Mengen produzieren und beliefern Armeen, Fürstenhäuser und Tempel mit Heiltränken, Gegengiften und Säuren.
 - **Symbol:** Ein sich in den Schwanz beißender oder im Feuer tanzender roter Salamander.
-- **Die Festum-Dynamik (Der ewige Konflikt):** In Festum prallen zwei Welten aufeinander: Der Rote Salamander und die [[halle-des-quecksilbers]] unter *Jaunava Dagoneff*. Die Magier blicken oft arrogant auf die "Suppenköche" herab. Der Salamander lacht über diese Arroganz und sticht sie wirtschaftlich aus. Beide Fraktionen jagen denselben seltenen Zutaten hinterher.
+- **Die Festum-Dynamik (Der ewige Konflikt):** In Festum prallen zwei Welten aufeinander: Der Rote Salamander und die [[halle-des-quecksilbers]] unter *Jaunava Dagoneff*. Die Magier blicken oft arrogant auf die "Suppenköche" herab. Der Salamander lacht über diese Arroganz und sticht sie wirtschaftlich aus. Beide Fraktionen jagen denselben seltenen Zutaten hinterher. Die Helden tauschten mit der Gilde Informationen über den flüchtigen Alchimisten [[magister-xandros|Magister Xandros]] aus und erhielten Zugang zu Laboren.
 
 %%
 

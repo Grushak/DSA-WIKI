@@ -1,0 +1,3 @@
+(https://de.wiki-aventurica.de/wiki/Bund_des_Wei%C3%9Fen_Pentagramms)
+
+Der **Bund des Weißen Pentagramms**, die **Weiße Gilde**, ist der Zusammenschluss der Magier der rechten Hand, gemeinhin als **Weißmagier** bezeichnet. Sie betrachten die [Magie](https://de.wiki-aventurica.de/wiki/Magie "Magie") als Gabe [Hesindes](https://de.wiki-aventurica.de/wiki/Hesinde "Hesinde"), sind sehr organisiert und streben nach Einhaltung alveranischer und derischer Ordnung. Es ist die magische Organisation, die der Lehre der [Praios-Kirche](https://de.wiki-aventurica.de/wiki/Praios-Kirche "Praios-Kirche") am nächsten steht und so kommt es zur gelegentlichen Zusammenarbeit.

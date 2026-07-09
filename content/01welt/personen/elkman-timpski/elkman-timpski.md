@@ -2,7 +2,7 @@
 title: "Hauptmann Elkman Timpski"
 type: "Charakter"
 tags: [dsa, npc, festum, garde, timpski, bornland, theaterritter]
-aliases: ["Elkman", "Timpski"]
+aliases: ["Elkman", "Timpski", "Elman", "Elman Timpski"]
 draft: false
 ---
 
@@ -16,7 +16,8 @@ draft: false
 
 ### 📝 Weitere Details
 **Position:** Gardehauptmann der Festumer Stadtgarde & Ratsherr des Weiten Rates
-**Aufgaben:** Oberster Befehlshaber der Wache in Festum.
+**Aufgaben:** Oberster Befehlshaber der Wache in Festum sowie Hauptverantwortlicher für das offizielle [[Atmaskot-Fest]].
+**Einstellung:** Legt gesteigerten Wert auf Recht, Ordnung und die Einhaltung offizieller Protokolle. Er sah das alternative Fest der Helden im Goblinviertel [[Sulak]] zunächst kritisch und forderte Sicherheitsgarantien sowie klare Verantwortungsübernahmen.
 **Politische Stellung:** Frei (Ratsherr). Gehört zu den Alteingesessenen und nutzt seinen hart erkämpften Status gnadenlos aus.
 **Kontakte:** [[berschin-walroder|Berschin Walroder]] (Adjutant), [[urjelke-eichbrenner|Urjelke Eichbrenner]] (Vorgängerin)
 **Restliche Infos:** 

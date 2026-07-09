@@ -1,16 +1,25 @@
 ---
-title: "falkja-vom-stamm-der-ferturi-und-tamperens-sippe"
-type: "Charakter"
-tags: [nsc, charakterbogen, festum, ifirn, geweihte, heilerin, dsa5]
-aliases: ["Elmira"]
+title: falkja-vom-stamm-der-ferturi-und-tamperens-sippe
+type: Charakter
+tags:
+  - nsc
+  - charakterbogen
+  - festum
+  - ifirn
+  - geweihte
+  - heilerin
+  - dsa5
+aliases:
+  - Elmira
 draft: false
+image: Falkja.jpg
 ---
 
 # 👤 falkja-vom-stamm-der-ferturi-und-tamperens-sippe
 
-| Porträt | Informationen |
-| :--- | :--- |
-| ![[bild.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** falkja-vom-stamm-der-ferturi-und-tamperens-sippe <br> **II. Kurzname:** Elmira <br> **III. Aussehen:** <br> Sie trägt wettergegerbte Lederkleidung, einen schweren Umhang aus weißem Wolfsfell und ihren Jagdbogen über der Schulter. An ihrem Gürtel hängen oft noch Jagdtrophäen. <br> **IV. Charakter / Verhalten:** <br> Erfahrene, pragmatische und zutiefst gütige Dienerin der Ifirn. Sie ist keine zarte Priesterin, die in Büchern liest, sondern eine Frau der Tat, die mit Bogen und Heilkräutern das Überleben der Festumer Armut sichert. |
+| Porträt               | Informationen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Falkja.jpg\|1000]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** falkja-vom-stamm-der-ferturi-und-tamperens-sippe <br> **II. Kurzname:** Elmira <br> **III. Aussehen:** <br> Sie trägt wettergegerbte Lederkleidung, einen schweren Umhang aus weißem Wolfsfell und ihren Jagdbogen über der Schulter. An ihrem Gürtel hängen oft noch Jagdtrophäen. <br> **IV. Charakter / Verhalten:** <br> Erfahrene, pragmatische und zutiefst gütige Dienerin der Ifirn. Sie ist keine zarte Priesterin, die in Büchern liest, sondern eine Frau der Tat, die mit Bogen und Heilkräutern das Überleben der Festumer Armut sichert. |
 
 ---
 

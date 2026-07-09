@@ -2,7 +2,7 @@
 title: "Okil Kawaszek"
 type: "Charakter"
 tags: [dsa, npc, festum, haendler, phex, ratsmitglied, bornland]
-aliases: ["Okil"]
+aliases: ["Okil", "Okil Kawaszek"]
 draft: false
 ---
 
@@ -15,9 +15,9 @@ draft: false
 ---
 
 ### 📝 Weitere Details
-**Position:** Reicher Großhändler / Ratsherr des Äußeren Rates von Festum
-**Aufgaben:** Handel, Stadtpolitik, Informationsbeschaffung.
-**Politische Stellung:** Sehr wohlhabend, einflussreich und angesehen.
+**Position:** Reicher Großhändler (Handelshaus Kawaszek) / Ratsherr des Äußeren Rates von Festum
+**Aufgaben:** Handel, Stadtpolitik, Informationsbeschaffung. Unterstützte die Helden maßgeblich bei der Organisation des [[Friedensfest der Kulturen|Friedensfestes der Kulturen]].
+**Politische Stellung:** Sehr wohlhabend, einflussreich und angesehen. Übernahm 60% der Kosten des Friedensfestes und stellte Sicherheitspersonal (Matrosen) zur Verfügung.
 **Kontakte:** [[oleana|Oleana]],
 **Restliche Infos:** *"Phex zum Gruße, mein Freund! Kommt, setzt euch. Ein Pfeifchen? Ein Schälchen Ikra? Das Geschäft läuft nicht weg, aber der gute Geschmack schon!"* Er verehrt Phex innig, besonders den Aspekt des Handels, der List und des profitablen Vertrags.
 

@@ -2,7 +2,7 @@
 title: "Mantka Riiba"
 type: "Charakter"
 tags: [dsa, npc, festum, goblin, schamanin, unterwelt, kunga-suula]
-aliases: ["Mantka", "Kunga Suula"]
+aliases: ["Mantka", "Kunga Suula", "Mantkariba", "Mantka Riiba"]
 draft: false
 ---
 
@@ -16,8 +16,8 @@ draft: false
 
 ### 📝 Weitere Details
 **Position:** Goblin-Hochschamanin (Kasknuk-Priesterin), Heilerin & Matriarchin.
-**Aufgaben:** Inoffizielle "Bürgermeisterin" des Goblin-Ghetto [[suulak|Suulak]].
-**Politische Stellung:** Verhandelt auf Augenhöhe mit dem Festumer Stadtrat und den Pfeffersäcken.
+**Aufgaben:** Inoffizielle "Bürgermeisterin" des Goblin-Ghetto [[suulak|Suulak]]. Koordiniert Stände und künstlerische Darbietungen auf dem [[Friedensfest der Kulturen]].
+**Politische Stellung:** Verhandelt auf Augenhöhe mit dem Festumer Stadtrat und den Pfeffersäcken. Forderte von den Helden die Aufklärung des Verschwindens von Goblins (Aragar) im Austausch für die Erlaubnis, das [[Friedensfest der Kulturen]] in Sulak abzuhalten.
 **Kontakte:** [[jaaeni-grauroth|Jääni Grauroth]], [[jucho-von-dallenthin|Großherzog Jucho von Dallenthin]]
 **Restliche Infos:** Sie führt die Festumer Goblins unbeschadet durch die rassistischen Atmaskot-Unruhen. Sie ist brillanter als die meisten Gelehrten, spielt aber die Rolle der "schlauen Rattenfänger-Chefin" perfekt.
 

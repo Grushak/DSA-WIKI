@@ -1,5 +1,5 @@
 ---
-aliases: ["Berschin"]
+aliases: ["Berschin", "Berschin Walroder"]
 draft: false
 tags: [dsa, npc, festum, stadtgarde]
 title: "Berschin Walroder"
