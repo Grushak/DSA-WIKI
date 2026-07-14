@@ -1,5 +1,5 @@
 ---
-aliases: ["Jucho", "Der Mond"]
+aliases: ["Jucho",]
 draft: false
 tags: [dsa, npc, festum, adel, phex, theaterritter]
 title: "Großherzog Jucho von Dallenthin und Persanzig"
