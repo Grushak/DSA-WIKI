@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[linja-jantareff.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Meisterin Linja Jantareff <br> **II. Kurzname:** Linja <br> **III. Aussehen:** <br> Bornländische Frau Mitte Vierzig. Trägt teure, pelzbesetzte Kleidung unter einer schweren, von Säure und Brandflecken gezeichneten Lederschürze. Fingerspitzen chemisch verfärbt, Schutzbrille oft auf der Stirn. <br> **IV. Charakter / Verhalten:** <br> Kühl, pragmatisch und absolut professionell. Sie ist eine Alchimistin durch und durch, lässt sich nicht von Magiern einschüchtern und bevorzugt "echtes Handwerk" gegenüber magischem Gerede. |
+| ![[linja-jantareff.jpg\|250]] | **I. Titel & Name:** Meisterin Linja Jantareff <br> **II. Kurzname:** Linja <br> **III. Aussehen:** <br> Bornländische Frau Mitte Vierzig. Trägt teure, pelzbesetzte Kleidung unter einer schweren, von Säure und Brandflecken gezeichneten Lederschürze. Fingerspitzen chemisch verfärbt, Schutzbrille oft auf der Stirn. <br> **IV. Charakter / Verhalten:** <br> Kühl, pragmatisch und absolut professionell. Sie ist eine Alchimistin durch und durch, lässt sich nicht von Magiern einschüchtern und bevorzugt "echtes Handwerk" gegenüber magischem Gerede. |
 
 ---
 

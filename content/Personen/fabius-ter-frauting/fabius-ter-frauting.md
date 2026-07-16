@@ -10,7 +10,7 @@ draft: false
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[fabius-ter-frauting.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Fabius ter Frauting <br> **II. Kurzname:** Fabius <br> **III. Aussehen:** <br> Mensch aus Festum. Er trägt einfache, abgewetzte Uniformteile oder die Kleidung eines verarmten Kadetten. Zusätzlich trägt er die offizielle Ghetto-Ordnerarmbinde des Protektorats. <br> **IV. Charakter / Verhalten:** <br> Abenteuerlustig und hoffnungslos naiv. Er unterschätzt Gefahren im Alltag und im Ghetto systematisch. Er betrachtet das Goblin-Ghetto mit romantischer Neugier, ist fasziniert von maritimen Legenden und sucht insgeheim nach Nixen im Festumer Hafenbecken. |
+| ![[fabius-ter-frauting.jpg\|250]] | **I. Titel & Name:** Fabius ter Frauting <br> **II. Kurzname:** Fabius <br> **III. Aussehen:** <br> Mensch aus Festum. Er trägt einfache, abgewetzte Uniformteile oder die Kleidung eines verarmten Kadetten. Zusätzlich trägt er die offizielle Ghetto-Ordnerarmbinde des Protektorats. <br> **IV. Charakter / Verhalten:** <br> Abenteuerlustig und hoffnungslos naiv. Er unterschätzt Gefahren im Alltag und im Ghetto systematisch. Er betrachtet das Goblin-Ghetto mit romantischer Neugier, ist fasziniert von maritimen Legenden und sucht insgeheim nach Nixen im Festumer Hafenbecken. |
 
 ---
 

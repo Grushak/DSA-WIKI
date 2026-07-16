@@ -12,7 +12,7 @@ type: Charakter
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[andrej-jennev-bild.jpg\|250]] | ![[wappen-roter-salamander.jpg\|100]] <br><br> **I. Titel & Name:** Andrej Jennev <br> **II. Kurzname:** Andrej <br> **III. Aussehen:** <br> Gilden-Bürokrat, Finger von Tinte und Säure verfärbt, einfache Gildenkleidung. <br> **IV. Charakter / Verhalten:** <br> Pragmatisch, pedantisch, herablassend gegenüber Nicht-Akademikern, unterwürfig gegenüber Magistern. |
+| ![[andrej-jennev-bild.jpg\|250]] | **I. Titel & Name:** Andrej Jennev <br> **II. Kurzname:** Andrej <br> **III. Aussehen:** <br> Gilden-Bürokrat, Finger von Tinte und Säure verfärbt, einfache Gildenkleidung. <br> **IV. Charakter / Verhalten:** <br> Pragmatisch, pedantisch, herablassend gegenüber Nicht-Akademikern, unterwürfig gegenüber Magistern. |
 
 ---
 

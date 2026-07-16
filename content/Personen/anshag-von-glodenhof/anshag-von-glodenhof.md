@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[anshag-von-glodenhof.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Anshag von Glodenhof <br> **II. Kurzname:** Anshag <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben (Statur, Kleidung, markante Merkmale).* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben (Auftreten, politische Rhetorik).* |
+| ![[anshag-von-glodenhof.jpg\|250]] | **I. Titel & Name:** Anshag von Glodenhof <br> **II. Kurzname:** Anshag <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben (Statur, Kleidung, markante Merkmale).* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben (Auftreten, politische Rhetorik).* |
 
 ---
 

@@ -8,7 +8,7 @@ draft: false
 
 # 💀 Antagonisten
 
-![[antagonisten-index.jpg|400|898x505]]
+![[antagonisten-index.jpg\|400\|898x505]]
 
 ## Übersicht
 Diese Seite ist das Archiv aller Gegenspieler, Schattenmächte und Feinde, die den Helden Steine in den Weg legen oder deren Pläne aktiv durchkreuzen. Hier werden alle Bedrohungen gesammelt, die eine aktive Gefahr für die Ziele der Helden oder das Wohl des Bornlands darstellen.

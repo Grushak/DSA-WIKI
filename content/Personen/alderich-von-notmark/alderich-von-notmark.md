@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[alderich-von-notmark.jpg\|250]] | ![[wappen-notmark.jpg\|100]] <br><br> **I. Titel & Name:** Alderich von Notmark <br> **II. Kurzname:** Alderich <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
+| ![[alderich-von-notmark.jpg\|250]] | **I. Titel & Name:** Alderich von Notmark <br> **II. Kurzname:** Alderich <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
 
 ---
 

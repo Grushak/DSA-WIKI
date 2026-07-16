@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[linea-gaensekiel.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Linea Gänsekiel <br> **II. Kurzname:** Linea <br> **III. Aussehen:** <br> *Beschrieben als eine gewissenhafte Geweihte der [[hesinde|Hesinde]], die meist in den traditionellen Roben der Kirche und mit dem namensgebenden Gänsekiel ausgestattet ist.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als äußerst akribisch, gerechtigkeitsliebend und tief in der hesindianischen Gelehrsamkeit verwurzelt. Sie ist eine wichtige Stütze für die intellektuelle Ordnung in Festum. |
+| ![[linea-gaensekiel.jpg\|250]] | **I. Titel & Name:** Linea Gänsekiel <br> **II. Kurzname:** Linea <br> **III. Aussehen:** <br> *Beschrieben als eine gewissenhafte Geweihte der [[hesinde|Hesinde]], die meist in den traditionellen Roben der Kirche und mit dem namensgebenden Gänsekiel ausgestattet ist.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als äußerst akribisch, gerechtigkeitsliebend und tief in der hesindianischen Gelehrsamkeit verwurzelt. Sie ist eine wichtige Stütze für die intellektuelle Ordnung in Festum. |
 
 ---
 

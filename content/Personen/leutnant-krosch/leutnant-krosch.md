@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[leutnant-korsch.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Leutnant Korsch <br> **II. Kurzname:** Korsch <br> **III. Aussehen:** <br> Groß, breitschultrig, trägt seine Garde-Uniform stets makellos, aber mit einer gewissen arroganten Lässigkeit. Er hat ein markantes, kantiges Gesicht und riecht oft nach einer Mischung aus billigem Parfüm und teurem Schnaps. <br> **IV. Charakter / Verhalten:** <br> Prahlerisch, geltungsbedürftig und absolut loyal gegenüber [[hauptmann-elkman-timpski|Timpski]]. Seine Loyalität ist rein opportunistisch, da der rassistische Kurs seines Vorgesetzten Korschs Machtposition stärkt. |
+| ![[leutnant-korsch.jpg\|250]] | **I. Titel & Name:** Leutnant Korsch <br> **II. Kurzname:** Korsch <br> **III. Aussehen:** <br> Groß, breitschultrig, trägt seine Garde-Uniform stets makellos, aber mit einer gewissen arroganten Lässigkeit. Er hat ein markantes, kantiges Gesicht und riecht oft nach einer Mischung aus billigem Parfüm und teurem Schnaps. <br> **IV. Charakter / Verhalten:** <br> Prahlerisch, geltungsbedürftig und absolut loyal gegenüber [[hauptmann-elkman-timpski|Timpski]]. Seine Loyalität ist rein opportunistisch, da der rassistische Kurs seines Vorgesetzten Korschs Machtposition stärkt. |
 
 ---
 

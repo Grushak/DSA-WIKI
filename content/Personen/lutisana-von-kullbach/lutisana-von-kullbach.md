@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[lutisana-von-kullbach.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Lutisana von Kullbach <br> **II. Kurzname:** Lutisana <br> **III. Aussehen:** <br> *Eine hochgewachsene Adlige, deren Auftreten von bornischem Stolz und einer gewissen Entschlossenheit geprägt ist.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als eine der einflussreichsten Adligen des Bornlandes. Ihr Auftreten ist bestimmt, taktisch klug und sie vertritt die Interessen ihrer Familie mit Nachdruck. |
+| ![[lutisana-von-kullbach.jpg\|250]] | **I. Titel & Name:** Lutisana von Kullbach <br> **II. Kurzname:** Lutisana <br> **III. Aussehen:** <br> *Eine hochgewachsene Adlige, deren Auftreten von bornischem Stolz und einer gewissen Entschlossenheit geprägt ist.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als eine der einflussreichsten Adligen des Bornlandes. Ihr Auftreten ist bestimmt, taktisch klug und sie vertritt die Interessen ihrer Familie mit Nachdruck. |
 
 ---
 

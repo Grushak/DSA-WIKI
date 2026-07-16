@@ -8,9 +8,9 @@ type: "Charakter"
 
 # 👤 Berschin Walroder
 
-| Porträt | Informationen |
-| :--- | :--- |
-| ![[berschin-walroder.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Berschin Walroder <br> **II. Kurzname:** Berschin <br> **III. Aussehen:** <br> Brauner Wuschelkopf, schlaksig, eingefallene Schultern, chronische Augenringe. Seine Uniform ist sauber, aber sichtlich abgenutzt. Tinte an den Fingern. <br> **IV. Charakter / Verhalten:** <br> Überlasteter Logistiker, gehetzt, sucht Trost in Musik. Er ist die Sollbruchstelle der Festumer Stadtgarde. |
+| Porträt                         | Informationen |
+|:--------------------------------| :--- |
+| ![[berschin-walroder.jpg\|250]] | **I. Titel & Name:** Berschin Walroder <br> **II. Kurzname:** Berschin <br> **III. Aussehen:** <br> Brauner Wuschelkopf, schlaksig, eingefallene Schultern, chronische Augenringe. Seine Uniform ist sauber, aber sichtlich abgenutzt. Tinte an den Fingern. <br> **IV. Charakter / Verhalten:** <br> Überlasteter Logistiker, gehetzt, sucht Trost in Musik. Er ist die Sollbruchstelle der Festumer Stadtgarde. |
 
 ---
 

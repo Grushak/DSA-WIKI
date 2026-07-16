@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[bruutsch-und-jaaeni.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Bruutsch <br> **II. Kurzname:** Bruutsch <br> **III. Aussehen:** <br> Rotbrauner Pelz, zwei Ringe im linken Ohr. Robuste Kleidung aus grün gefärbtem Segeltuch, mit Stroh gegen die Kälte ausgestopft. <br> **IV. Charakter / Verhalten:** <br> Draufgänger, rachsüchtig, beschützerisch gegenüber [[jaaeni|Jääni]]. |
+| ![[bruutsch-und-jaaeni.jpg\|250]] | **I. Titel & Name:** Bruutsch <br> **II. Kurzname:** Bruutsch <br> **III. Aussehen:** <br> Rotbrauner Pelz, zwei Ringe im linken Ohr. Robuste Kleidung aus grün gefärbtem Segeltuch, mit Stroh gegen die Kälte ausgestopft. <br> **IV. Charakter / Verhalten:** <br> Draufgänger, rachsüchtig, beschützerisch gegenüber [[jaaeni|Jääni]]. |
 
 ---
 

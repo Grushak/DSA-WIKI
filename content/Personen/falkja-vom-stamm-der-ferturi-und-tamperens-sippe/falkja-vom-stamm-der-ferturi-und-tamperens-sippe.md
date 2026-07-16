@@ -1,5 +1,5 @@
 ---
-title: falkja-vom-stamm-der-ferturi-und-tamperens-sippe
+title: Falkja vom Stamm der Ferturi und Tamperens-Sippe
 type: Charakter
 tags:
   - nsc
@@ -15,11 +15,11 @@ draft: false
 image: Falkja.jpg
 ---
 
-# 👤 falkja-vom-stamm-der-ferturi-und-tamperens-sippe
+# 👤 Falkja vom Stamm der Ferturi und Tamperens-Sippe
 
-| Porträt               | Informationen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Falkja.jpg\|1000]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** falkja-vom-stamm-der-ferturi-und-tamperens-sippe <br> **II. Kurzname:** Elmira <br> **III. Aussehen:** <br> Sie trägt wettergegerbte Lederkleidung, einen schweren Umhang aus weißem Wolfsfell und ihren Jagdbogen über der Schulter. An ihrem Gürtel hängen oft noch Jagdtrophäen. <br> **IV. Charakter / Verhalten:** <br> Erfahrene, pragmatische und zutiefst gütige Dienerin der Ifirn. Sie ist keine zarte Priesterin, die in Büchern liest, sondern eine Frau der Tat, die mit Bogen und Heilkräutern das Überleben der Festumer Armut sichert. |
+![[Falkja.jpg\|400]]
+
+**I. Titel & Name:** Falkja vom Stamm der Ferturi und Tamperens-Sippe <br> **II. Kurzname:** Elmira <br> **III. Aussehen:** <br> Sie trägt wettergegerbte Lederkleidung, einen schweren Umhang aus weißem Wolfsfell und ihren Jagdbogen über der Schulter. An ihrem Gürtel hängen oft noch Jagdtrophäen. <br> **IV. Charakter / Verhalten:** <br> Erfahrene, pragmatische und zutiefst gütige Dienerin der Ifirn. Sie ist keine zarte Priesterin, die in Büchern liest, sondern eine Frau der Tat, die mit Bogen und Heilkräutern das Überleben der Festumer Armut sichert.
 
 ---
 
@@ -78,7 +78,7 @@ Als Geweihte der Milde und Rettung greift sie auf die Kraft ihrer Göttin zurüc
 ## ❄️ Die Begegnung: Wenn der Winter die Magie trifft
 
 **Das Szenario: Elmiras Rückkehr**
-Während die Helden in Festum eintrafen und ihre ersten Ermittlungen anstellten, war der Ifirn-Tempel in Prähnsgardt ohne seine Vorsteherin. falkja-vom-stamm-der-ferturi-und-tamperens-sippe war auf den umliegenden Höfen (z.B. dem *Hof am Breitweiher*) unterwegs. Dort trieben aggressive, möglicherweise von der harten Kälte wahnsinnig gewordene Wildschweine ihr Unwesen und bedrohten die Saatgut-Speicher der Bauern.
+Während die Helden in Festum eintrafen und ihre ersten Ermittlungen anstellten, war der Ifirn-Tempel in Prähnsgardt ohne seine Vorsteherin. Falkja vom Stamm der Ferturi und Tamperens-Sippe war auf den umliegenden Höfen (z.B. dem *Hof am Breitweiher*) unterwegs. Dort trieben aggressive, möglicherweise von der harten Kälte wahnsinnig gewordene Wildschweine ihr Unwesen und bedrohten die Saatgut-Speicher der Bauern.
 
 **Der Auftritt im Akademie-Hof**
 Elmira wartet nicht, bis sie sich den Schmutz der Jagd abgewaschen hat. Sobald sie am Stadttor hörte, dass eine „fremde Schwanentochter“ in der Stadt ist, steuerte sie direkt die **Halle des Quecksilbers** an.

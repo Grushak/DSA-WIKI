@@ -1,4 +1,5 @@
 # Oleana Fuxfehl
+![[Oleana Fuxfehl.jpg|250]]
 Gefährtin von [[Wassili Oljatow]] und [[Jalani]].
 
 - **Hintergrund:** Ihre Schwester Loreana wurde von der Organisation [[Die Dornen]] entführt.

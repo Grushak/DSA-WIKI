@@ -10,7 +10,7 @@ draft: false
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[mantka-riiba.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Mantka Riiba <br> **II. Kurzname:** Mantka <br> **III. Aussehen:** <br> Rostroter Pelz, durchzogen von grauen Strähnen. Traditioneller Knochenschmuck, Ruß und ockerfarbene, mystische Zeichen im Gesicht. Die Kleidung wirkt primitiv, ist aber mit hochkomplexen schamanistischen Symbolen verziert. In ihren tiefschwarzen Augen liegt eine erschütternde, fast unmenschlich alte Intelligenz. <br> **IV. Charakter / Verhalten:** <br> Sie ist die personifizierte Asymmetrie im bornischen System. Sie nutzt die systematische Unterschätzung ihres Volkes als ultimativen Schutzschild. *"Menschen sind wie laute, grausame Kinder. Wir Rotpelze sind die Wurzeln im Dunkeln. Unterschätzt niemals die Wurzeln, Herr Magus."* |
+| ![[mantka-riiba.jpg\|250]] | |
 
 ---
 
@@ -28,16 +28,16 @@ draft: false
 ## Spielwerte & Meister-Daten
 
 - **Spielwerte (Crunch):**
-    - *Hinweis:* Als unsterbliche "Verhüllte Meisterin" gelten für sie normale DSA-Werte praktisch nicht. Ein direkter Kampf bedeutet den unvermeidbaren Tod der Heldengruppe.
-    - *Geistige Attribute (Göttlich):* KL 19, IN 20, CH 18.
-    - *Wissen:* Magiekunde, Sagen & Legenden, Götter & Kulte, Geschichtswissen auf Maximalwerten (18+).
-    - *Magie (Hochschamanin):* Kasknuk-Rituale, uralte Elementarmagie, Geisterbeschwörungen und Gedankenkontrolle auf höchstem Niveau. Ihr Zelt ist von unsichtbaren, tödlichen Geistern bewacht.
+- *Hinweis:* Als unsterbliche "Verhüllte Meisterin" gelten für sie normale DSA-Werte praktisch nicht. Ein direkter Kampf bedeutet den unvermeidbaren Tod der Heldengruppe.
+- *Geistige Attribute (Göttlich):* KL 19, IN 20, CH 18.
+- *Wissen:* Magiekunde, Sagen & Legenden, Götter & Kulte, Geschichtswissen auf Maximalwerten (18+).
+- *Magie (Hochschamanin):* Kasknuk-Rituale, uralte Elementarmagie, Geisterbeschwörungen und Gedankenkontrolle auf höchstem Niveau. Ihr Zelt ist von unsichtbaren, tödlichen Geistern bewacht.
 - **Geheime Motivation (Das absolute Geheimnis):** Sie ist **Kunga Suula**, die legendäre, unsterbliche Hochkönigin des zerschlagenen Goblin-Großreiches Aventuriens. Geboren vor der Eroberung durch die Theaterritter, lenkt sie ihr Volk aus den Schatten.
 - **Geheimnisse:** Die Tragödie um [[jaaeni-grauroth|Jääni Grauroth]]: Mantka kann ihre begabteste Schülerin nicht vor der Radikalisierung bewahren.
 - **Intrigen & Pläne (Chronologische Matrix):**
-    1. **Prolog:** Der Katalysator. Liefert Hinweise auf die wahre Natur der [[thorwalertrommel|Thorwalertrommel]].
-    2. **Band 1:** Die Aufklärerin. Bestätigt den Einfluss einer dritten Kraft ([[korsmal-bund|Korsmal-Bund]]).
-    3. **Bände 2-6:** Die Prophetin. Einzige Entität, die das "Erwachen des Bornlandes" ganzheitlich begreift. Sie gibt ihr Wissen nur in Rätseln weiter, um ihr Überleben nicht zu gefährden.
+1. **Prolog:** Der Katalysator. Liefert Hinweise auf die wahre Natur der [[thorwalertrommel|Thorwalertrommel]].
+2. **Band 1:** Die Aufklärerin. Bestätigt den Einfluss einer dritten Kraft ([[korsmal-bund|Korsmal-Bund]]).
+3. **Bände 2-6:** Die Prophetin. Einzige Entität, die das "Erwachen des Bornlandes" ganzheitlich begreift. Sie gibt ihr Wissen nur in Rätseln weiter, um ihr Überleben nicht zu gefährden.
 
 ### 🎭 Rollenspiel-Hinweise für den Meister
 Mantka operiert in drei Schichten:

@@ -8,6 +8,8 @@ draft: false
 
 # 👤 Wassili Oljatow
 
+![[Wassili Oljatow.jpg|250]]
+
 Adeptus Minor der [[Bund des Weißen Pentagramms|Weißen Gilde]], Abgänger der [Akademie zu Schwert und Stab in Gareth](https://de.wiki-aventurica.de/wiki/Akademie_Schwert_und_Stab).
 
 - **Hintergrund:** Magier, der sich mit Kraftlinienmagie und Alchemie beschäftigt.

@@ -3,7 +3,7 @@
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[kruga.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Kruga <br> **II. Kurzname:** Kruga <br> **III. Aussehen:** <br> Flink, sehnig und sehr klein. Sie trägt eine offensichtlich für Menschen geschneiderte, blaue Anwärter-Tunika der [[blaue-pfeile|Blauen Pfeile]], die sie sich passend geschnürt hat. Am Gürtel baumelt ihre Steinschleuder. <br> **IV. Charakter / Verhalten:** <br> Extrem ehrgeizig und widerstandsfähig. Trotz des Rassismus in [[festum|Festum]] kämpft sie um ihren Platz als Botin. Sie ist loyal gegenüber denen, die ihr Respekt entgegenbringen, allen voran [[jalani|Jalani]]. |
+| ![[kruga.jpg\|250]] | **I. Titel & Name:** Kruga <br> **II. Kurzname:** Kruga <br> **III. Aussehen:** <br> Flink, sehnig und sehr klein. Sie trägt eine offensichtlich für Menschen geschneiderte, blaue Anwärter-Tunika der [[blaue-pfeile|Blauen Pfeile]], die sie sich passend geschnürt hat. Am Gürtel baumelt ihre Steinschleuder. <br> **IV. Charakter / Verhalten:** <br> Extrem ehrgeizig und widerstandsfähig. Trotz des Rassismus in [[festum|Festum]] kämpft sie um ihren Platz als Botin. Sie ist loyal gegenüber denen, die ihr Respekt entgegenbringen, allen voran [[jalani|Jalani]]. |
 
 ---
 

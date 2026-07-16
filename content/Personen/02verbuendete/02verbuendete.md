@@ -8,7 +8,7 @@ draft: false
 
 # 🤝 Verbündete
 
-![[verbuendete-index.jpg|400|926x521]]
+![[verbuendete-index.jpg\|400\|926x521]]
 
 ## Übersicht
 Dieses Verzeichnis sammelt alle Personen, Gruppierungen oder Wesenheiten, die den Helden wohlgesonnen sind. Hier findest du eine Zusammenstellung von Mentoren, Informanten und hilfreichen Kontakten, die den Helden mit Rat, Tat oder Ressourcen zur Seite stehen.

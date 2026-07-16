@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[argele-von-eschenfurt.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Argele von Eschenfurt <br> **II. Kurzname:** Argele <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
+| ![[argele-von-eschenfurt.jpg\|250]] | **I. Titel & Name:** Argele von Eschenfurt <br> **II. Kurzname:** Argele <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
 
 ---
 

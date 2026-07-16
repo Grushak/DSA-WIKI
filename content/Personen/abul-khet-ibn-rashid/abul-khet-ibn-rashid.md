@@ -8,9 +8,9 @@ type: "Charakter"
 
 # 👳🏽‍♂️ Abu’l-Khet ibn Rashid
 
-| Porträt | Informationen |
-| :--- | :--- |
-| ![[abul-khet-ibn-rashid.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Abu’l-Khet ibn Rashid <br> **II. Kurzname:** Abu’l-Khet <br> **III. Aussehen:** <br> Tulamide (Mitte 50). Kupferfarbene Haut, ein kunstvoll gestutzter schwarz-silberner Spitzbart. Er trägt eine tiefblaue Seidenrobe mit Sternenstickerei, kombiniert mit einem absurden, dicken Bärenfellmantel gegen die bornische Kälte. <br> **IV. Charakter / Verhalten:** <br> Höflich, gastfreundlich, intellektuell. Er spricht mit einem warmen Akzent und nutzt blumige Metaphern. Er fröstelt ständig, bietet aber stets zuckersüßen Minztee an. |
+| Porträt                   | Informationen |
+|:--------------------------| :--- |
+| ![[Abu’l-Khet.jpg\|250]] | **I. Titel & Name:** Abu’l-Khet ibn Rashid <br> **II. Kurzname:** Abu’l-Khet <br> **III. Aussehen:** <br> Tulamide (Mitte 50). Kupferfarbene Haut, ein kunstvoll gestutzter schwarz-silberner Spitzbart. Er trägt eine tiefblaue Seidenrobe mit Sternenstickerei, kombiniert mit einem absurden, dicken Bärenfellmantel gegen die bornische Kälte. <br> **IV. Charakter / Verhalten:** <br> Höflich, gastfreundlich, intellektuell. Er spricht mit einem warmen Akzent und nutzt blumige Metaphern. Er fröstelt ständig, bietet aber stets zuckersüßen Minztee an. |
 
 ---
 

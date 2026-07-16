@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[lutgerda.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Lutgerda <br> **II. Kurzname:** Lutgerda <br> **III. Aussehen:** <br> *Eine junge Frau mit einer tragischen Aura; ihr Zustand lässt auf langanhaltende alchimistische oder magische Manipulationen schließen.* <br> **IV. Charakter / Verhalten:** <br> Sie wirkt gezeichnet und traumatisiert. Ihre Geschichte ist eng mit den dunklen Machenschaften von [[magister-xandros|Magister Xandros]] verknüpft. |
+| ![[lutgerda.jpg\|250]] | **I. Titel & Name:** Lutgerda <br> **II. Kurzname:** Lutgerda <br> **III. Aussehen:** <br> *Eine junge Frau mit einer tragischen Aura; ihr Zustand lässt auf langanhaltende alchimistische oder magische Manipulationen schließen.* <br> **IV. Charakter / Verhalten:** <br> Sie wirkt gezeichnet und traumatisiert. Ihre Geschichte ist eng mit den dunklen Machenschaften von [[magister-xandros|Magister Xandros]] verknüpft. |
 
 ---
 

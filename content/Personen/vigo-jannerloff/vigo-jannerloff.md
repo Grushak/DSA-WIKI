@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[vigo-jannerloff.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Vigo Jannerloff <br> **II. Kurzname:** Vigo <br> **III. Aussehen:** <br> Hünenhaft und extrem breitschultrig mit immenser, spürbarer Körperkraft. Er trägt einfache, schmutzige Alltagskleidung eines Hafenarbeiters und die offizielle Ghetto-Armbinde der Protektoren-Ordner. <br> **IV. Charakter / Verhalten:** <br> Leidet unter einer massiven, schweren Sehschwäche; er ist dadurch im Alltag stark beeinträchtigt und kann Gesichter erst auf einen einzigen Schritt Entfernung genau erkennen. Da er selbst der arbeitenden Unterschicht angehört, sympathisiert er extrem schnell mit den Ausgestoßenen im Sulak. |
+| ![[vigo-jannerloff.jpg\|250]] | **I. Titel & Name:** Vigo Jannerloff <br> **II. Kurzname:** Vigo <br> **III. Aussehen:** <br> Hünenhaft und extrem breitschultrig mit immenser, spürbarer Körperkraft. Er trägt einfache, schmutzige Alltagskleidung eines Hafenarbeiters und die offizielle Ghetto-Armbinde der Protektoren-Ordner. <br> **IV. Charakter / Verhalten:** <br> Leidet unter einer massiven, schweren Sehschwäche; er ist dadurch im Alltag stark beeinträchtigt und kann Gesichter erst auf einen einzigen Schritt Entfernung genau erkennen. Da er selbst der arbeitenden Unterschicht angehört, sympathisiert er extrem schnell mit den Ausgestoßenen im Sulak. |
 
 ---
 

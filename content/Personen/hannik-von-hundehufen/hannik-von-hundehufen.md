@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[hannik-von-hundehufen.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Hannik von Hundehufen <br> **II. Kurzname:** Hannik <br> **III. Aussehen:** <br> 61-jähriger (Stand 1039 BF) Mensch. Er wird als etwas aufgedunsen beschrieben. Sein Äußeres spiegelt seinen wohlhabenden Status als sehr bekannter bornischer Heimatdichter wider. <br> **IV. Charakter / Verhalten:** <br> Er ist äußerst charmant, sehr patriotisch und pflegt Kontakte zu bedeutenden Persönlichkeiten. Hannik liebt das Bornland abgöttisch, hegt jedoch einen tiefen Abscheu gegenüber politischem Betrieb. Er braucht stets eine "Mission", um motiviert zu sein. Er ist empfindlich gegenüber Störungen und legt großen Wert auf seine gesellschaftliche Stellung; bei Unterbrechungen kann er sehr abweisend reagieren. |
+| ![[hannik-von-hundehufen.jpg\|250]] | **I. Titel & Name:** Hannik von Hundehufen <br> **II. Kurzname:** Hannik <br> **III. Aussehen:** <br> 61-jähriger (Stand 1039 BF) Mensch. Er wird als etwas aufgedunsen beschrieben. Sein Äußeres spiegelt seinen wohlhabenden Status als sehr bekannter bornischer Heimatdichter wider. <br> **IV. Charakter / Verhalten:** <br> Er ist äußerst charmant, sehr patriotisch und pflegt Kontakte zu bedeutenden Persönlichkeiten. Hannik liebt das Bornland abgöttisch, hegt jedoch einen tiefen Abscheu gegenüber politischem Betrieb. Er braucht stets eine "Mission", um motiviert zu sein. Er ist empfindlich gegenüber Störungen und legt großen Wert auf seine gesellschaftliche Stellung; bei Unterbrechungen kann er sehr abweisend reagieren. |
 
 ---
 

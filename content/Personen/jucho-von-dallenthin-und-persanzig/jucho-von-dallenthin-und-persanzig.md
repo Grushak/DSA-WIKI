@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt                                          | Informationen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[jucho-von-dallenthin-und-persanzig.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Großherzog Jucho von Dallenthin und Persanzig <br> **II. Kurzname:** Jucho <br> **III. Aussehen:** <br> Hochbetagter, würdevoller Mann mit gepflegtem weißem Haar und Bart. Kleidung von erlesener Qualität, jedoch traditionell bornisch. Er bewegt sich bedächtig, stützt sich auf einen Gehstock und strahlt eine unerschütterliche, ruhige Autorität aus. <br> **IV. Charakter / Verhalten:** <br> Er spricht langsam, wählt seine Worte mit Bedacht und nutzt subtile Metaphern (Schatten, Sterne, Handel). Er wirkt wie ein weiser, aber stets kalkulierender Stratege. |
+| ![[jucho-von-dallenthin-und-persanzig.jpg\|250]] |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ---
 
@@ -28,14 +28,14 @@ type: "Charakter"
 ## Spielwerte & Meister-Daten
 
 - **Spielwerte (Crunch):**
-    - *Gesellschaftliche Talente:* 16+ (Meisterlich in Diplomatie, Menschenkenntnis, Überredungskunst).
-    - *Phex-Expertise:* Vollendeter Meister in Heimlichkeit, Gassenwissen, Verschlüsselung und Intrigen.
+- *Gesellschaftliche Talente:* 16+ (Meisterlich in Diplomatie, Menschenkenntnis, Überredungskunst).
+- *Phex-Expertise:* Vollendeter Meister in Heimlichkeit, Gassenwissen, Verschlüsselung und Intrigen.
 - **Geheime Identität:** Er ist „Der Mond“, das höchste irdische Oberhaupt der gesamten aventurischen [[phex-kirche|Phex-Kirche]].
 - **Geheime Motivation:** Erhalt der bornischen Nation; Stabilisierung Festums durch phexische List statt durch blutige Konfrontation.
 - **Intrigen & Pläne (Chronologie):**
-    - **Prolog:** Heuert Helden für den Diebstahl der [[thorwalertrommel|Thorwalertrommel]] an.
-    - **Kampagne:** Schützt Gelehrte wie [[thezmar-alatzer|Thezmar Alatzer]] und vereint den [[widderorden|Widderorden]] gegen den [[korsmal-bund|Korsmal-Bund]].
-    - **Tragödie:** Verschwindet spurlos nach der Zerstörung der Kälarenburg.
+- **Prolog:** Heuert Helden für den Diebstahl der [[thorwalertrommel|Thorwalertrommel]] an.
+- **Kampagne:** Schützt Gelehrte wie [[thezmar-alatzer|Thezmar Alatzer]] und vereint den [[widderorden|Widderorden]] gegen den [[korsmal-bund|Korsmal-Bund]].
+- **Tragödie:** Verschwindet spurlos nach der Zerstörung der Kälarenburg.
 
 ### 🎭 Dialog-Matrix (Phexische Subtilität)
 Jucho nutzt Alltagsthemen, um die systemischen Fehler Festums zu benennen:

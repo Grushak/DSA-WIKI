@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[atmaskot-blutsaeufer.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Atmaskot Blutsäufer <br> **II. Kurzname:** Atmaskot <br> **III. Aussehen:** <br> Ein historischer Thorwaler-Pirat. Mächtig, gezeichnet vom Kampf, trägt das typische Erscheinungsbild eines gefürchteten Seekriegers seiner Zeit. <br> **IV. Charakter / Verhalten:** <br> Rücksichtslos, entschlossen und ein charismatischer Anführer, der Festum in die Knie zwang. |
+| ![[atmaskot-blutsaeufer.jpg\|250]] | **I. Titel & Name:** Atmaskot Blutsäufer <br> **II. Kurzname:** Atmaskot <br> **III. Aussehen:** <br> Ein historischer Thorwaler-Pirat. Mächtig, gezeichnet vom Kampf, trägt das typische Erscheinungsbild eines gefürchteten Seekriegers seiner Zeit. <br> **IV. Charakter / Verhalten:** <br> Rücksichtslos, entschlossen und ein charismatischer Anführer, der Festum in die Knie zwang. |
 
 ---
 
@@ -21,7 +21,7 @@ type: "Charakter"
 **Kontakte:** [[festum|Festum]] (als Angreifer), [[thorwaler|Thorwaler]] (als Anführer)
 **Restliche Infos:** Seine grausame Hinrichtung (Häutung) und die anschließende Verarbeitung seiner Haut zu der [[thorwalertrommel|Thorwalertrommel]] machen ihn zum unfreiwilligen Mittelpunkt des aktuellen Konflikts in Festum.
 
-![[manschaft|Manschaft]]
+![[manschaft\|Manschaft]]
 ---
 
 %%

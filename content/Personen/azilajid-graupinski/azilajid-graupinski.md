@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[azilajid-bild.jpg|250]] | ![[wappen-festum.jpg|100]] <br><br> **I. Titel & Name:** Azilajid Graupinski <br> **II. Kurzname:** Azilajid <br> **III. Aussehen:** <br> Braungebrannt, markante Narbe auf der Stirn, zahlreiche kleine Maraskan-Zöpfe, Ring (oder zwei) durch die Unterlippe. <br> **IV. Charakter / Verhalten:** <br> Bissig, schlagfertig, ironisch. Verachtet bornischen Adel. Benötigt tägliche Streitgespräche zur psychischen Regulation. |
+| ![[azilajid-bild.jpg\|250]] | **I. Titel & Name:** Azilajid Graupinski <br> **II. Kurzname:** Azilajid <br> **III. Aussehen:** <br> Braungebrannt, markante Narbe auf der Stirn, zahlreiche kleine Maraskan-Zöpfe, Ring (oder zwei) durch die Unterlippe. <br> **IV. Charakter / Verhalten:** <br> Bissig, schlagfertig, ironisch. Verachtet bornischen Adel. Benötigt tägliche Streitgespräche zur psychischen Regulation. |
 
 ---
 

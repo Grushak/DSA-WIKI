@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[heilige-ancilla.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Heilige Ancilla <br> **II. Kurzname:** Ancilla <br> **III. Aussehen:** <br> *Historische Darstellung als Magisterin in den traditionellen Roben der Hesinde-Kirche, oft mit einem Buch oder einer Flamme abgebildet.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als die Schutzheilige des geistigen Wandels. Sie war eine Magisterin der Magister und eine Vordenkerin, deren Klugheit die Kirche in dunklen Zeiten bewahrte. |
+| ![[heilige-ancilla.jpg\|250]] | **I. Titel & Name:** Heilige Ancilla <br> **II. Kurzname:** Ancilla <br> **III. Aussehen:** <br> *Historische Darstellung als Magisterin in den traditionellen Roben der Hesinde-Kirche, oft mit einem Buch oder einer Flamme abgebildet.* <br> **IV. Charakter / Verhalten:** <br> Sie gilt als die Schutzheilige des geistigen Wandels. Sie war eine Magisterin der Magister und eine Vordenkerin, deren Klugheit die Kirche in dunklen Zeiten bewahrte. |
 
 ---
 

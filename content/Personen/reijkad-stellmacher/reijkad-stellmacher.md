@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[reijkad-stellmacher.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Reijkad Stellmacher <br> **II. Kurzname:** Reijkad <br> **III. Aussehen:** <br> Mann von etwa 35 Jahren (Stand 1040 BF) bis 44 Jahren (1049 BF). Er besitzt eine dickliche Statur und einen eher fülligen Körperbau. Sein markantestes Merkmal ist eine auffallend schmale Nase. Sein distinguiertes, exzentrisches Auftreten wird durch seine knallrote Weste und ein Monokel an einem Auge unterstrichen. <br> **IV. Charakter / Verhalten:** <br> Stellmacher ist ein Visionär. Er ist überzeugt davon, dass Goblins zu komplexer, mehrstimmiger und berührender Kunst fähig sind. Er tritt offensiv gegen die Vorurteile der Festumer Bürger an und nutzt seine Musik als politisches und kulturelles Werkzeug. |
+| ![[reijkad-stellmacher.jpg\|250]] | **I. Titel & Name:** Reijkad Stellmacher <br> **II. Kurzname:** Reijkad <br> **III. Aussehen:** <br> Mann von etwa 35 Jahren (Stand 1040 BF) bis 44 Jahren (1049 BF). Er besitzt eine dickliche Statur und einen eher fülligen Körperbau. Sein markantestes Merkmal ist eine auffallend schmale Nase. Sein distinguiertes, exzentrisches Auftreten wird durch seine knallrote Weste und ein Monokel an einem Auge unterstrichen. <br> **IV. Charakter / Verhalten:** <br> Stellmacher ist ein Visionär. Er ist überzeugt davon, dass Goblins zu komplexer, mehrstimmiger und berührender Kunst fähig sind. Er tritt offensiv gegen die Vorurteile der Festumer Bürger an und nutzt seine Musik als politisches und kulturelles Werkzeug. |
 
 ---
 

@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[ilsi-ronderikdottir.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Ilsi Ronderikdottir <br> **II. Kurzname:** Ilsi <br> **III. Aussehen:** <br> Klassische Erscheinung einer Thorwalerin. Furchtlos im Kampf und wetterfest gekleidet. Sie trägt ein gehärtetes Lederwams mit Fellbesatz. <br> **IV. Charakter / Verhalten:** <br> Lebensfroh, lauter und loyal. Sie ist nicht dumm, aber ihre Neugier auf die Welt der Magie macht sie blind für die Gefahren, die von skrupellosen Alchimisten ausgehen. *"Ein Schiff ist sicher, ein Schild ist verlässlich – aber diese Magier... sie sprechen in Rätseln und ihre Hände weben Licht aus dem Nichts. Es ist faszinierend, fast so sehr wie ein aufziehender Sturm auf dem Meer."* |
+| ![[ilsi-ronderikdottir.jpg\|250]] | **I. Titel & Name:** Ilsi Ronderikdottir <br> **II. Kurzname:** Ilsi <br> **III. Aussehen:** <br> Klassische Erscheinung einer Thorwalerin. Furchtlos im Kampf und wetterfest gekleidet. Sie trägt ein gehärtetes Lederwams mit Fellbesatz. <br> **IV. Charakter / Verhalten:** <br> Lebensfroh, lauter und loyal. Sie ist nicht dumm, aber ihre Neugier auf die Welt der Magie macht sie blind für die Gefahren, die von skrupellosen Alchimisten ausgehen. *"Ein Schiff ist sicher, ein Schild ist verlässlich – aber diese Magier... sie sprechen in Rätseln und ihre Hände weben Licht aus dem Nichts. Es ist faszinierend, fast so sehr wie ein aufziehender Sturm auf dem Meer."* |
 
 ---
 

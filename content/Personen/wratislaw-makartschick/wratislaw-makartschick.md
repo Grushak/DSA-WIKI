@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[wratislaw-makartschick.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Wratislaw Makartschick <br> **II. Kurzname:** Wratislaw <br> **III. Aussehen:** <br> Mitte 20. Stämmig, trägt vom Regen durchnässte, derbe Lederkleidung und die rote Atmaskot-Binde am Arm. Er hat eine frische, verbundene Stichwunde im Unterbauch. <br> **IV. Charakter / Verhalten:** <br> Funktioniert nach einer simplen, durch Propaganda erzeugten Feindbild-Logik, die nun jedoch einen Riss bekommen hat. *"Die Norbarden ziehen dir das Geld aus der Tasche, die Thorwaler benehmen sich wie wilde Tiere und diese ekligen Rotpelze stinken einfach nur. Aber... danke. Geht jetzt besser. Geht da nicht rein, da machen sie mit Nicht-Bornländern kurzen Prozess."* |
+| ![[wratislaw-makartschick.jpg\|250]] | **I. Titel & Name:** Wratislaw Makartschick <br> **II. Kurzname:** Wratislaw <br> **III. Aussehen:** <br> Mitte 20. Stämmig, trägt vom Regen durchnässte, derbe Lederkleidung und die rote Atmaskot-Binde am Arm. Er hat eine frische, verbundene Stichwunde im Unterbauch. <br> **IV. Charakter / Verhalten:** <br> Funktioniert nach einer simplen, durch Propaganda erzeugten Feindbild-Logik, die nun jedoch einen Riss bekommen hat. *"Die Norbarden ziehen dir das Geld aus der Tasche, die Thorwaler benehmen sich wie wilde Tiere und diese ekligen Rotpelze stinken einfach nur. Aber... danke. Geht jetzt besser. Geht da nicht rein, da machen sie mit Nicht-Bornländern kurzen Prozess."* |
 
 ---
 

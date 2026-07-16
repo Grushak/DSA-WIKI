@@ -10,7 +10,7 @@ draft: false
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[jadvige-von-hummergarben.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Jadvige von Hummergarben <br> **II. Kurzname:** Jadvige <br> **III. Aussehen:** <br> *Historische Darstellung als Marschallin des Theaterordens in schwerer Rüstung.* <br> **IV. Charakter / Verhalten:** <br> Eine entschlossene Marschallin, die das Land wie kein zweiter kannte. Sie war brillant, strategisch versiert und gnadenlos in der Verfolgung ihrer Ziele. |
+| ![[jadvige-von-hummergarben.jpg\|250]] | **I. Titel & Name:** Jadvige von Hummergarben <br> **II. Kurzname:** Jadvige <br> **III. Aussehen:** <br> *Historische Darstellung als Marschallin des Theaterordens in schwerer Rüstung.* <br> **IV. Charakter / Verhalten:** <br> Eine entschlossene Marschallin, die das Land wie kein zweiter kannte. Sie war brillant, strategisch versiert und gnadenlos in der Verfolgung ihrer Ziele. |
 
 ---
 

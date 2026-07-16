@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[arvedua-von-neetha.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Arvedua von Neetha <br> **II. Kurzname:** Arvedua <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
+| ![[arvedua-von-neetha.jpg\|250]] | **I. Titel & Name:** Arvedua von Neetha <br> **II. Kurzname:** Arvedua <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
 
 ---
 

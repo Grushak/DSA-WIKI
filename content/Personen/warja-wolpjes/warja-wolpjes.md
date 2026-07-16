@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[warja-wolpjes.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Warja Wolpjes <br> **II. Kurzname:** Warja <br> **III. Aussehen:** <br> Trägt einfache, robuste Alltagskleidung einer Hafenarbeiterin sowie die offizielle Ghetto-Armbinde der Protektoren-Ordner. <br> **IV. Charakter / Verhalten:** <br> Quirlig und ausgesprochen tanzlustig. Sie genießt das absolute Vertrauen der einfachen Unterschicht und der Ghetto-Bewohner. |
+| ![[warja-wolpjes.jpg\|250]] | **I. Titel & Name:** Warja Wolpjes <br> **II. Kurzname:** Warja <br> **III. Aussehen:** <br> Trägt einfache, robuste Alltagskleidung einer Hafenarbeiterin sowie die offizielle Ghetto-Armbinde der Protektoren-Ordner. <br> **IV. Charakter / Verhalten:** <br> Quirlig und ausgesprochen tanzlustig. Sie genießt das absolute Vertrauen der einfachen Unterschicht und der Ghetto-Bewohner. |
 
 ---
 

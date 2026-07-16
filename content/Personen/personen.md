@@ -8,7 +8,7 @@ draft: false
 
 # 👥 Personen
 
-![[personen-index.jpg|400|908x511]]
+![[personen-index.jpg\|400\|908x511]]
 
 ## Übersicht
 Hier werden alle Persönlichkeiten und NSC gesammelt, denen die Helden im Laufe ihrer Reise begegnet sind oder die für das Schicksal des Bornlands von Bedeutung sind. Diese Datenbank dient als zentrales Verzeichnis, um den Überblick über Verbündete, Auftraggeber und Kontrahenten zu behalten.

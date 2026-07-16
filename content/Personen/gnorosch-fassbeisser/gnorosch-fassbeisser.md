@@ -10,7 +10,7 @@ draft: false
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[gnorosch-fassbeisser.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Gnorosch "Fassbeißer" <br> **II. Kurzname:** Gnorosch <br> **III. Aussehen:** <br> Ein absurder Anblick. Gnorosch trägt über seinem abgewetzten, zwergischen Kettenhemd eine maßlos überteuerte, purpurrote Samtweste, die viel zu eng sitzt. In der einen Hand hält er einen fettigen, frisch gebratenen Kapaun, in der anderen schwenkt er einen gewaltigen Humpen Festumer Dunkelbier. <br> **IV. Charakter / Verhalten:** <br> Er ist betrunken vor echtem Alkohol und eingebildeter Macht. Er prahlt lautstark vor den leichten Mädchen und Hafenarbeitern und wirft unbedacht mit Münzen um sich. Gnorosch denkt, er hätte den Deal seines Lebens gemacht und merkt nicht, dass er eine wandelnde Zielscheibe ist. |
+| ![[gnorosch-fassbeisser.jpg\|250]] | **I. Titel & Name:** Gnorosch "Fassbeißer" <br> **II. Kurzname:** Gnorosch <br> **III. Aussehen:** <br> Ein absurder Anblick. Gnorosch trägt über seinem abgewetzten, zwergischen Kettenhemd eine maßlos überteuerte, purpurrote Samtweste, die viel zu eng sitzt. In der einen Hand hält er einen fettigen, frisch gebratenen Kapaun, in der anderen schwenkt er einen gewaltigen Humpen Festumer Dunkelbier. <br> **IV. Charakter / Verhalten:** <br> Er ist betrunken vor echtem Alkohol und eingebildeter Macht. Er prahlt lautstark vor den leichten Mädchen und Hafenarbeitern und wirft unbedacht mit Münzen um sich. Gnorosch denkt, er hätte den Deal seines Lebens gemacht und merkt nicht, dass er eine wandelnde Zielscheibe ist. |
 
 ---
 

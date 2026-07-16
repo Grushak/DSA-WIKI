@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[prishya-von-garlischgroetz.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Prishya von Garlischgrötz <br> **II. Kurzname:** Prishya <br> **III. Aussehen:** <br> Zweite Bürgermeisterin. Trägt die Eleganz und die Härte des bornischen Adels zur Schau. Ihr Auftreten ist makellos, kühl und von hoher Autorität geprägt. Kleidung von feinster Qualität, oft in den Farben ihres Hauses. <br> **IV. Charakter / Verhalten:** <br> Traditionalistin durch und durch. Sie sieht die wirtschaftlichen Umbrüche und das Erstarken des Freibunds als Gefahr für die bornländische Identität und den Stolz der Adelsversammlung. |
+| ![[prishya-von-garlischgroetz.jpg\|250]] | **I. Titel & Name:** Prishya von Garlischgrötz <br> **II. Kurzname:** Prishya <br> **III. Aussehen:** <br> Zweite Bürgermeisterin. Trägt die Eleganz und die Härte des bornischen Adels zur Schau. Ihr Auftreten ist makellos, kühl und von hoher Autorität geprägt. Kleidung von feinster Qualität, oft in den Farben ihres Hauses. <br> **IV. Charakter / Verhalten:** <br> Traditionalistin durch und durch. Sie sieht die wirtschaftlichen Umbrüche und das Erstarken des Freibunds als Gefahr für die bornländische Identität und den Stolz der Adelsversammlung. |
 
 ---
 

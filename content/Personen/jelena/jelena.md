@@ -10,7 +10,7 @@ draft: false
 
 | Porträt | Informationen |
 | :--- | :--- |
-| ![[jelena.jpg\|250]] | ![[wappen.jpg\|100]] <br><br> **I. Titel & Name:** Jelena <br> **II. Kurzname:** Jelena <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
+| ![[jelena.jpg\|250]] | **I. Titel & Name:** Jelena <br> **II. Kurzname:** Jelena <br> **III. Aussehen:** <br> *Hier Aussehen beschreiben...* <br> **IV. Charakter / Verhalten:** <br> *Hier Verhalten beschreiben...* |
 
 ---
 

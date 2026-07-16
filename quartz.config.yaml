@@ -154,6 +154,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      filterFn: |
+        (node) => node.name !== "zz_Assets" && node.slugSegment !== "zz_Assets" && node.name !== "content"
     layout:
       position: left
       priority: 50

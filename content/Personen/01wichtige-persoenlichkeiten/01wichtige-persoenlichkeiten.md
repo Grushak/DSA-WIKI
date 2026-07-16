@@ -8,7 +8,7 @@ draft: false
 
 # 👑 Wichtige Persönlichkeiten
 
-![[wichtige-persoenlichkeiten-index.jpg|908]]
+![[wichtige-persoenlichkeiten-index.jpg\|908]]
 
 ## Übersicht
 Dieses Verzeichnis dokumentiert die einflussreichsten Akteure, die das Schicksal der Welt maßgeblich lenken oder prägen. Hier finden sich die Entscheider, Herrscher, Rektoren und großen Gegenspieler, deren Wirken den politischen, magischen und wirtschaftlichen Kurs der Region beeinflusst. Diese Datenbank ist für Charaktere von globaler Relevanz und weitreichendem Machtanspruch reserviert.

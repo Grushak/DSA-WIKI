@@ -10,7 +10,7 @@ type: "Charakter"
 
 | Porträt                   | Informationen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[olko-knaack.jpg\|250]] | ![[HalleDesQuecksilbersWappen.jpg]] <br><br> **I. Titel & Name:** Olko Knaack <br> **II. Kurzname:** Olko <br> **III. Aussehen:** <br> 20 Jahre alt. Schlaksig, rotblonde Haare, lückenhafter weicher Vollbart. Trägt die graue Magierrobe mit symbolbesticktem Saum, im Winter dicke Kleidung und einen spitzen Magierhut mit einklappbaren Otternfell-Ohrenwärmern. <br> **IV. Charakter / Verhalten:** <br> Leidenschaftlich, debattierfreudig, tolerant. Nutzt Fremdwörter. Versucht Eskalationen durch Bluffen oder entwaffnende Freundlichkeit zu entschärfen. Er sieht Goblins als gleichwertig an. |
+| ![[olko-knaack.jpg\|250]] |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ---
 
@@ -33,13 +33,13 @@ type: "Charakter"
 - **Schmerz +1 bei:** 23, 16, 8 und 5 LeP oder weniger.
 - **RS/BE:** 1 / 0 (Schwere Winterkleidung).
 - **Kampfverhalten:** Hält sich im Hintergrund, bufft sich selbst (Armatrutz) und debufft Feinde (Blitz dich find, Corpofesso). Erst bei Lebensgefahr für Freunde geht er in den Nahkampf.
-- **Waffen:** 
-    - [[langer-magierstab|Langer Magierstab]]: AT 10 | PA 8 | TP 1W6+2 | RW lang
-    - [[waffenloser-kampf|Waffenlos]]: AT 12 | PA 6 | TP 1W6
+- **Waffen:**
+- [[langer-magierstab|Langer Magierstab]]: AT 10 | PA 8 | TP 1W6+2 | RW lang
+- [[waffenloser-kampf|Waffenlos]]: AT 12 | PA 6 | TP 1W6
 - **Magische Matrix:**
-    - *Vorteile:* Hohe Astralkraft II, Vertrauenerweckend, Zauberer.
-    - *Nachteile:* Artefaktgebunden (Stab), Prinzipientreue I (Freiheit/Völkerverständigung), Neugier.
-    - *Zauber:* Odem Arcanum (10), Balsam Salabunde (7), Blitz dich find (7), Corpofesso (7), Motoricus (7), Silentium (7), Armatrutz (6), Manifesto (6), Nebelwand (5).
+- *Vorteile:* Hohe Astralkraft II, Vertrauenerweckend, Zauberer.
+- *Nachteile:* Artefaktgebunden (Stab), Prinzipientreue I (Freiheit/Völkerverständigung), Neugier.
+- *Zauber:* Odem Arcanum (10), Balsam Salabunde (7), Blitz dich find (7), Corpofesso (7), Motoricus (7), Silentium (7), Armatrutz (6), Manifesto (6), Nebelwand (5).
 
 ### ⏱️ Chronologische Kampagnen-Entwicklung
 1. **Prolog:** Aktiver Analyst. Liefert Helden Logik hinter der [[thorwalertrommel|Thorwalertrommel]].
